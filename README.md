@@ -10,7 +10,7 @@
 - **AmyROM** | [Github](https://github.com/amyROM) - [Web](https://sourceforge.net/projects/gengkapak/files/ROM/)
 - **Ancient OS** | [Github](https://github.com/Ancient-Lab) - [Web](https://sourceforge.net/projects/ancientrom/files/) [second web?](https://sourceforge.net/projects/ancientproject/files/)
 - **AOSiP** | [Github](https://github.com/AOSiP) - [Web](https://aosip.weebly.com/)
-- **AOSP Extended** | [Github](https://github.com/AospExtended) - [Web](https://www.aospextended.com/)
+- **AOSP Extended** | [Github](https://github.com/AospExtended) - [Web](https://aosp-extended.vercel.app/)
 - **Arrow OS** | [Github](https://github.com/arrowos) - [Web](https://arrowos.net/)
 - **Atomic OS** | [Github](https://github.com/Atomic-OS) - [Web](https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/)
 - **BaikalOS** | [Github](https://github.com/baikalos) - [Web](https://sourceforge.net/projects/baikalos/files/)
