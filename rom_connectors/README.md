@@ -10,7 +10,7 @@ List from https://github.com/musabcel/android_rom_list, updated in current repo 
 - **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/)
 - **AlphaDroid** | [Github](https://github.com/AlphaDroid-Project) - [Web](https://sourceforge.net/projects/alphadroid-project/files/)
 - **AmyROM** | [Github](https://github.com/amyROM) - [Web](https://sabrina.amyrom.tech/ota/)
-- **Ancient OS** | [Github](https://github.com/Ancient-Lab) - [Web](https://sourceforge.net/projects/ancientrom/files/) [second web?](https://sourceforge.net/projects/ancientproject/files/)
+- **Ancient OS** | [Github](https://github.com/Ancient-Lab) - [Web](https://sourceforge.net/projects/ancientrom/files/)
 - **AOSiP** | [Github](https://github.com/AOSiP) - [Web](https://aosip.weebly.com/)
 - **AOSP Extended** | [Github](https://github.com/AospExtended) - [Web](https://aosp-extended.vercel.app/)
 - **Arrow OS** | [Github](https://github.com/arrowos) - [Web](https://devices.arrowos.net/) [DL](https://sourceforge.net/projects/arrow-os/files/)
