@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from utils import get_html
+from rom_connectors.utils import get_html
 
 def getSupportedDevices():
     html = get_html('https://sabrina.amyrom.tech/ota/')
@@ -16,5 +16,3 @@ def getSupportedDevices():
         if '/' in label.get('href'):
            supported_devices.append(label.text)
     return supported_devices
-
-print(getSupportedDevices())

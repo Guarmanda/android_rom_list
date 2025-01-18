@@ -1,4 +1,4 @@
-from utils import get_driver
+from rom_connectors.utils import get_driver
 from selenium.webdriver.common.by import By
 
 def getSupportedDevices():
@@ -10,5 +10,3 @@ def getSupportedDevices():
     for e in elems:
         supported_devices.append(e.text.lower())
     return supported_devices
-
-print(getSupportedDevices())

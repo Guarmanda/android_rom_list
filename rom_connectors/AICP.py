@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-from utils import get_html
+from rom_connectors.utils import get_html
 
 def getSupportedDevices():
     html = get_html('https://media.aicp-rom.com/vault/')

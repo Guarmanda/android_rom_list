@@ -3,7 +3,7 @@
 
 from bs4 import BeautifulSoup
 
-from utils import get_html
+from rom_connectors.utils import get_html
 
 
 def getSupportedDevices():
@@ -28,6 +28,5 @@ def getSupportedDevices():
             supported_devices.append(value)
     return supported_devices
 
-print(getSupportedDevices())
 
 
