@@ -1,0 +1,7 @@
+from utils import get_source_forge_files_rss
+
+# should be official, all links from telegram points here
+def getSupportedDevices():
+    return get_source_forge_files_rss('https://sourceforge.net/projects/alphadroid-project/files/')
+
+print(getSupportedDevices())

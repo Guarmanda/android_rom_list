@@ -5,12 +5,18 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import xml.etree.ElementTree as ET
+import urllib3  
+# or if this does not work with the previous import:
+# from requests.packages import urllib3  
+
+# Suppress only the single warning from urllib3.
+urllib3.disable_warnings(category=urllib3.exceptions.InsecureRequestWarning)
 
 def get_html(url):
-    response = requests.get(url)
+    response = requests.get(url, verify=False)
     return response.text
 
-
+# some websites needs to really open a browser to get the content, else they won't load the whole html
 def get_driver(url, wait_load_element_id=None, wait_load_element_class=None, wait_load_element_tag=None):
     driver_path = "C:/Users/Admin/Desktop/chromedriver-win64/chromedriver.exe"  # Replace with your WebDriver's path
 

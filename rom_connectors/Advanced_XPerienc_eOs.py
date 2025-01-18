@@ -28,4 +28,6 @@ def getSupportedDevices():
             supported_devices.append(value)
     return supported_devices
 
+print(getSupportedDevices())
+
 
