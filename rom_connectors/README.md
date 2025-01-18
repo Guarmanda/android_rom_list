@@ -2,12 +2,14 @@
 <img src="https://github.com/musabcel/android_rom_list/blob/master/doc/android_header.png?raw=true" alt="stacks"/>
 </h1>
 
+List from https://github.com/musabcel/android_rom_list, updated in current repo (removed some dead roms without any download links, updated many links).
+
 - **Advanced XPerience OS** | [Github](https://github.com/AXP-OS) [Web](https://axpos.org/dl.html)
 - **AfterLifeOS** | [Github](https://github.com/AfterLifeOS) - [Web](https://afterlifeos.com)
 - **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/)
 - **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/)
 - **AlphaDroid** | [Github](https://github.com/AlphaDroid-Project) - [Web](https://sourceforge.net/projects/alphadroid-project/files/)
-- **AmyROM** | [Github](https://github.com/amyROM) - [Web](https://sourceforge.net/projects/gengkapak/files/ROM/)
+- **AmyROM** | [Github](https://github.com/amyROM) - [Web](https://sabrina.amyrom.tech/ota/)
 - **Ancient OS** | [Github](https://github.com/Ancient-Lab) - [Web](https://sourceforge.net/projects/ancientrom/files/) [second web?](https://sourceforge.net/projects/ancientproject/files/)
 - **AOSiP** | [Github](https://github.com/AOSiP) - [Web](https://aosip.weebly.com/)
 - **AOSP Extended** | [Github](https://github.com/AospExtended) - [Web](https://aosp-extended.vercel.app/)

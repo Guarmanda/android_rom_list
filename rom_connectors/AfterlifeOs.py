@@ -1,34 +1,12 @@
-from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 import time
 
+from utils import get_driver
+
 
 def getSupportedDevices():
-    driver_path = "C:/Users/Admin/Desktop/chromedriver-win64/chromedriver.exe"  # Replace with your WebDriver's path
-
-    options = webdriver.ChromeOptions()
-    options.add_argument('headless')
-    options.add_argument("disable-gpu")
-    options.headless = True
-    options.binary_location = "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
-    # Initialize the WebDriver (Chrome in this example)
-    service = Service(executable_path=driver_path)
-    driver = webdriver.Chrome(service=service, options=options)
-
-    # Open the target webpage
-    url = "https://afterlifeos.com/device/"  # Replace with the actual URL
-    driver.get(url)
-
-    # check if the page is loaded
-    while True:
-        try:
-            driver.find_element(By.ID, "brxe-oaesby")
-            break
-        except:
-            time.sleep(1)
+    driver = get_driver("https://afterlifeos.com/device/", wait_load_element_id="brxe-oaesby")  
             
     # check if elem of class fc-cta-do-not-consent is present, and click it if so
     try:

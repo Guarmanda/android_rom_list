@@ -1,13 +1,9 @@
-import requests
 from bs4 import BeautifulSoup
 
-def get_html():
-    url = 'https://media.aicp-rom.com/vault/'
-    response = requests.get(url)
-    return response.text
+from utils import get_html
 
 def getSupportedDevices():
-    html = get_html()
+    html = get_html('https://media.aicp-rom.com/vault/')
     # with regexp, get everything between each "<a href="/vault/" and their next "/" in html
     supported_devices = []
     soup = BeautifulSoup(html, 'html.parser')

@@ -1,15 +1,13 @@
 # get html of page https://axpos.org/dl.html
 
-import requests
+
 from bs4 import BeautifulSoup
 
-def get_html():
-    url = 'https://axpos.org/dl.html'
-    response = requests.get(url)
-    return response.text
+from utils import get_html
+
 
 def getSupportedDevices():
-    html = get_html()
+    html = get_html('https://axpos.org/dl.html')
 
     # parse html
     soup = BeautifulSoup(html, 'html.parser')
