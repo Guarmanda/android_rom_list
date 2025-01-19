@@ -37,11 +37,38 @@ for rom, devices in supported_devices.items():
     for device in devices:
         # if the device is in the dataframe, add the rom to the "Supported ROMs" column
         if device in df["Device"].values:
-            df.loc[df["Device"] == device, "Supported ROMs"] += rom + ", "
+            df.loc[df["Device"] == device, "Supported ROMs"] += rom + " | "
+        
+        
+df["Retail Branding"] = df["Retail Branding"].str.lower()
+df["Marketing Name"] = df["Marketing Name"].str.lower()
+df["Device"] = df["Device"].str.lower()
+df["Model"] = df["Model"].str.lower()  
         
 # remove all devices that have no supported roms
 df = df[df["Supported ROMs"] != ""]
 df["Supported ROMs"] = df["Supported ROMs"].apply(lambda x: x[:-2])
+# remove duplicates
+df = df.drop_duplicates(subset=["Retail Branding","Marketing Name","Device","Model","Supported ROMs"])
+
+# for lines where "Retail Branding","Marketing Name","Device" are the same, we can merge the "Model" columns and remove duplicates
+df = df.groupby(["Retail Branding", "Marketing Name", "Device", "Supported ROMs"], as_index=False).agg({
+    "Model": lambda x: ' / '.join(x)
+})
+
+# same for lines where ""Device"","Marketing Name","Model" are the same
+df = df.groupby(["Device", "Marketing Name", "Model", "Supported ROMs"], as_index=False).agg({
+    "Retail Branding": lambda x: ' / '.join(x)
+})
+
+# same for lines where "Retail Branding","Device","Model" are the same
+df = df.groupby(["Retail Branding", "Device", "Model", "Supported ROMs"], as_index=False).agg({
+    "Marketing Name": lambda x: ' / '.join(x)
+})
+df = df[["Retail Branding","Marketing Name","Device","Model","Supported ROMs"]]
+
+
+
 
 # save the dataframe to a new csv
 df.to_csv("supported_devices_with_roms.csv", index=False)
