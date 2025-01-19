@@ -28,8 +28,7 @@ List from https://github.com/musabcel/android_rom_list, updated in current repo 
 - **Cherish OS** | [Github](https://github.com/CherishOS) - [Web](https://cherishos.com/index.html)
 - **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
 - **Citrus CAF** | [Github](https://github.com/Citrus-CAF) - [Web](https://sourceforge.net/projects/citrus-caf/files/)
-- **Colt OS** | [Github](https://github.com/Colt-Enigma) - [Web](https
-://colt-enigma.github.io/)
+- **Colt OS** | [Github](https://github.com/Colt-Enigma) - [Web](https://colt-enigma.github.io/)
 - **ConquerOS** | [Github](https://github.com/ConquerOS) - [Web](https://sourceforge.net/projects/conqueros/files/twelve/) [Web2](https://sourceforge.net/projects/conqueros/files/Eleven/stable/) [Web3](https://sourceforge.net/projects/conqueros/files/ten/stable/)
 - **Corvus ROM** | [Github](https://github.com/Corvus-AOSP) - [Web](https://sourceforge.net/projects/corvus-os/files/)
 - **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
