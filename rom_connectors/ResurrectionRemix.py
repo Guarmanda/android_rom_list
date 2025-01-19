@@ -1,0 +1,5 @@
+from rom_connectors.utils import get_source_forge_files_rss
+
+# outdated (android 10) but official
+def getSupportedDevices():
+    return get_source_forge_files_rss('https://sourceforge.net/projects/resurrectionremix-ten/files/')
