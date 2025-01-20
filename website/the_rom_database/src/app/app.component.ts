@@ -38,7 +38,8 @@ rowData: Device[] = [];
 
   onGridReady(params: GridReadyEvent<Device>) {
     this.gridApi = params.api;
-    fetch('/data/supported_devices_with_roms.csv')
+    const baseHref = document.baseURI; // Retrieves the base href dynamically
+    fetch(`${baseHref}data/supported_devices_with_roms.csv`)
     .then(response => response.text())
     .then(data => {
       let lines = data.split('\n');
