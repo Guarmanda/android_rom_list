@@ -9,3 +9,6 @@ The original repo of ROM list, updated in current repo: https://github.com/musab
 A website that could be used to get more smartphones datas: gsmarena.com or phonedb
 
 A script to gather the datas from phonedb: https://github.com/Warren772/phonedb.py
+
+
+Current URL: https://guarmanda.github.io/android_rom_list/website/dist/
