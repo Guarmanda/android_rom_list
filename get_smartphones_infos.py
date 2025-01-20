@@ -25,7 +25,7 @@ with open("supported_devices.txt", "r") as f:
     for line in file_content.split("\n"):
         if line:
             rom = line.split(":")[0].replace(".py", "").replace("_", " ")
-            devices = line.split(":")[1].replace("[", "").replace("]", "").replace('\'', "").split(", ")
+            devices = line.lower().split(":")[1].replace("[", "").replace("]", "").replace('\'', "").split(", ")
             supported_devices[rom] = devices
             
 print("Supported devices loaded from supported_devices.txt")
@@ -33,17 +33,17 @@ print("Supported devices loaded from supported_devices.txt")
 # now we can add a column to the dataframe, with the roms that support each device
 df["Supported ROMs"] = ""
 
+df["Retail Branding"] = df["Retail Branding"].str.lower()
+df["Marketing Name"] = df["Marketing Name"].str.lower()
+df["Device"] = df["Device"].str.lower()
+df["Model"] = df["Model"].str.lower()  
+
 for rom, devices in supported_devices.items():
     for device in devices:
         # if the device is in the dataframe, add the rom to the "Supported ROMs" column
         if device in df["Device"].values:
             df.loc[df["Device"] == device, "Supported ROMs"] += rom + " | "
         
-        
-df["Retail Branding"] = df["Retail Branding"].str.lower()
-df["Marketing Name"] = df["Marketing Name"].str.lower()
-df["Device"] = df["Device"].str.lower()
-df["Model"] = df["Model"].str.lower()  
         
 # remove all devices that have no supported roms
 df = df[df["Supported ROMs"] != ""]
