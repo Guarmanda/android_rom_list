@@ -31,44 +31,50 @@ with open("supported_devices.txt", "r") as f:
 print("Supported devices loaded from supported_devices.txt")
 
 # now we can add a column to the dataframe, with the roms that support each device
-df["Supported ROMs"] = ""
+
 
 df["Retail Branding"] = df["Retail Branding"].str.lower()
 df["Marketing Name"] = df["Marketing Name"].str.lower()
 df["Device"] = df["Device"].str.lower()
 df["Model"] = df["Model"].str.lower()  
 
+# remove duplicates
+size = len(df)       
+df = df.drop_duplicates(subset=["Retail Branding","Marketing Name","Device","Model"])
+print(f"Removed {size - len(df)} duplicates")    
+
+# remove lines with branding and marketing name empty (NaN)
+df = df.dropna(subset=["Retail Branding","Marketing Name"])
+
+# for lines where "Device" is the same, merge "Retail Branding", "Marketing Name" and "Model" columns like this:
+# Retail Branding1 / Retail Branding2 | Marketing Name1 / Marketing Name2 | Model1 / Model2
+df = df.groupby("Device", as_index=False).agg({
+    "Retail Branding": lambda x: ' / '.join(x),
+    "Marketing Name": lambda x: ' / '.join(x),
+    "Model": lambda x: ' / '.join(x)
+})
+
+# for each cell, remove duplicate strings within the cell
+df["Retail Branding"] = df["Retail Branding"].apply(lambda x: ' / '.join(list(set(x.split(" / ")))) )
+df["Marketing Name"] = df["Marketing Name"].apply(lambda x: ' / '.join(list(set(x.split(" / ")))))
+df["Model"] = df["Model"].apply(lambda x: ' / '.join(list(set(x.split(" / ")))))
+
+df["Supported ROMs"] = ""
+df = df[["Retail Branding","Marketing Name","Device","Model","Supported ROMs"]]
+
+size = len(df)
+
 for rom, devices in supported_devices.items():
     for device in devices:
         # if the device is in the dataframe, add the rom to the "Supported ROMs" column
         if device in df["Device"].values:
             df.loc[df["Device"] == device, "Supported ROMs"] += rom + " | "
-        
-        
+            
 # remove all devices that have no supported roms
 df = df[df["Supported ROMs"] != ""]
 df["Supported ROMs"] = df["Supported ROMs"].apply(lambda x: x[:-2])
-# remove duplicates
-df = df.drop_duplicates(subset=["Retail Branding","Marketing Name","Device","Model","Supported ROMs"])
 
-# for lines where "Retail Branding","Marketing Name","Device" are the same, we can merge the "Model" columns and remove duplicates
-df = df.groupby(["Retail Branding", "Marketing Name", "Device", "Supported ROMs"], as_index=False).agg({
-    "Model": lambda x: ' / '.join(x)
-})
-
-# same for lines where ""Device"","Marketing Name","Model" are the same
-df = df.groupby(["Device", "Marketing Name", "Model", "Supported ROMs"], as_index=False).agg({
-    "Retail Branding": lambda x: ' / '.join(x)
-})
-
-# same for lines where "Retail Branding","Device","Model" are the same
-df = df.groupby(["Retail Branding", "Device", "Model", "Supported ROMs"], as_index=False).agg({
-    "Marketing Name": lambda x: ' / '.join(x)
-})
-df = df[["Retail Branding","Marketing Name","Device","Model","Supported ROMs"]]
-
-
-
+print(f"Out of {size} devices, {len(df)} have supported ROMs")
 
 # save the dataframe to a new csv
 df.to_csv("supported_devices_with_roms.csv", index=False)

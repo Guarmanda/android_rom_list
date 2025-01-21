@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from rom_connectors.utils import get_html
 
+# /!\ this sometimes not work: website sometimes down
 def getSupportedDevices():
     html = get_html('https://cygnusos.com/downloadpage.html')
     # with regexp, get everything between each "<a href="/vault/" and their next "/" in html
