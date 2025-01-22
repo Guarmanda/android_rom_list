@@ -1,5 +1,4 @@
-# go to /website/the_rom_database and build the website (ng build --base-href /android_rom_list/website/dist/)
-
+# Auto build the website, updates datas, and move the website to /website/dist
 import os
 import shutil
 import subprocess

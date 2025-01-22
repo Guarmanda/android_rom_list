@@ -37,11 +37,8 @@ df["Retail Branding"] = df["Retail Branding"].str.lower()
 df["Marketing Name"] = df["Marketing Name"].str.lower()
 df["Device"] = df["Device"].str.lower()
 df["Model"] = df["Model"].str.lower()  
-
-# remove duplicates
-size = len(df)       
+      
 df = df.drop_duplicates(subset=["Retail Branding","Marketing Name","Device","Model"])
-print(f"Removed {size - len(df)} duplicates")    
 
 # remove lines with branding and marketing name empty (NaN)
 df = df.dropna(subset=["Retail Branding","Marketing Name"])
