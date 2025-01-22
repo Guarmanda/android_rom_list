@@ -1,5 +1,5 @@
 import re
-from utils import get_html
+from rom_connectors.utils import get_html
 
 def getSupportedDevices():
     html = get_html('https://www.genesisos.dev/devices')

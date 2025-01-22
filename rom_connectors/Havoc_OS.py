@@ -1,4 +1,4 @@
-from utils import get_driver, get_html
+from rom_connectors.utils import get_driver, get_html
 from selenium.webdriver.common.by import By
 
 def getSupportedDevices():

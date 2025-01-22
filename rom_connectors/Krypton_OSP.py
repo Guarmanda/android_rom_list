@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from utils import get_html
+from rom_connectors.utils import get_html
 
 # official, a non-official list is also avalaible
 def getSupportedDevices():

@@ -1,4 +1,4 @@
-from utils import get_driver
+from rom_connectors.utils import get_driver
 from selenium.webdriver.common.by import By
 
 # website not accessible with selenium or get_html... maybe it could work with a different user agent

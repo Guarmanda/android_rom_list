@@ -1,8 +1,7 @@
 from bs4 import BeautifulSoup
 from rom_connectors.utils import get_html
 
-# /!\ this may not work anymore, website doesn't contain any device now
-# switch to sourceforge?
+# /!\ website sometimes does not work, rom is discontinued and there is no download option
 def getSupportedDevices():
     html = get_html('https://divestos.eeyo.re/pages/devices')
     # with regexp, get everything between each "<a href="/vault/" and their next "/" in html
