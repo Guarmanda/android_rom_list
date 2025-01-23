@@ -19,5 +19,3 @@ def getSupportedDevices():
                 supported_devices.append(a['href'][1:])
     return supported_devices
 
-print(getSupportedDevices())
-

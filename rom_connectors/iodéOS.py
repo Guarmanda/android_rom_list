@@ -3,7 +3,7 @@ from rom_connectors.utils import get_html
 
 # official, a non-official list is also avalaible
 def getSupportedDevices():
-    html = get_html('https://iode.tech/fr/installation/')
+    html = get_html('https://iode.tech/fr/appareils-pris-en-charge-officiellement-par-iodeos/')
 
     soup = BeautifulSoup(html, 'html.parser')
     supported_devices = []
@@ -18,4 +18,3 @@ def getSupportedDevices():
             # the galaxy tab s5e does not have its codename specified but is on the page
             supported_devices.append("gts4lv")
     return supported_devices
-
