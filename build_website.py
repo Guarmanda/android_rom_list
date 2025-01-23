@@ -11,10 +11,12 @@ if not os.path.exists("supported_devices_with_roms.csv"):
 # delete file in /website/the_rom_database/public/data if exist
 if os.path.exists("website/the_rom_database/public/data/supported_devices_with_roms.csv"):
     os.remove("website/the_rom_database/public/data/supported_devices_with_roms.csv")
+if os.path.exists("website/the_rom_database/public/data/rom_device_counts.csv"):
+    os.remove("website/the_rom_database/public/data/rom_device_counts.csv")
 # move the file to /website/the_rom_database/public/data
 print("Moving supported_devices_with_roms.csv to /website/the_rom_database/public/data...")
 shutil.move("supported_devices_with_roms.csv", "website/the_rom_database/public/data")
-
+shutil.move("rom_device_counts.csv", "website/the_rom_database/public/data")
 # build the website
 print("Building the website...")
 os.chdir("website/the_rom_database")

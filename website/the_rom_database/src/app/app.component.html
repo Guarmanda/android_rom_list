@@ -1,10 +1,17 @@
 
-<div id="test">
+<div class="test">
 <h2>There are some false positives in this list!</h2>
 <h4>You are warned, I merged brands/models that haves the same device codename. But you can have two brands that use the same codename for their respecting device, while the devices are totally differents.</h4>
-<ag-grid-angular id="test2"
+<ag-grid-angular class="test2"
 [rowData]="rowData"
 [columnDefs]="colDefs" 
 (gridReady)="onGridReady($event)"/>
 </div>
+<div class="test">
+    <h2>Number of devices per ROM</h2>
+    <ag-grid-angular class="test2"
+    [rowData]="romData2"
+    [columnDefs]="coldefs2" 
+    (gridReady)="onGridReady2($event)"/>
+    </div>
 <router-outlet />

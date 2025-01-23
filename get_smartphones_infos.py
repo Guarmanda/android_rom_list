@@ -1,4 +1,5 @@
 # download this file: https://storage.googleapis.com/play_public/supported_devices.csv
+import csv
 import requests
 import pandas as pd
 import os
@@ -29,6 +30,12 @@ with open("supported_devices.txt", "r") as f:
             supported_devices[rom] = devices
             
 print("Supported devices loaded from supported_devices.txt")
+# maybe we could make a csv with number of devices per rom? columns:["Rom", "Number of devices"])
+with open("rom_device_counts.csv", "w", newline="") as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(["Rom", "Number of devices"])
+    for rom, devices in supported_devices.items():
+        writer.writerow([rom, len(devices)])
 
 # now we can add a column to the dataframe, with the roms that support each device
 

@@ -10,6 +10,8 @@ const MARKETING_NAME = "Marketing Name";
 const CODE_NAME = "CodeName";
 const MODEL = "Model";
 const ROMS = "ROM(s) supporting device";
+const NUMBER_OF_DEVICES = "Number of Devices";
+const ROM = "ROM";
 
 interface Device {
   [RETAIL_BRANDING]: string;
@@ -17,6 +19,11 @@ interface Device {
   [CODE_NAME]: string;
   [MODEL]: string;
   [ROMS]: string;
+}
+
+interface Rom {
+  [ROM]: string;
+  [NUMBER_OF_DEVICES]: number;
 }
 
 @Component({
@@ -30,9 +37,10 @@ export class AppComponent {
   gridApi !: GridApi<Device>;
   title = 'the_rom_database';
 
-  rowDataRaw: Device[] = [
-    //{ make: "Tesla", model: "Model Y", price: 64950, electric: true },
-];
+  gridApi2 !: GridApi<Rom>;
+
+  rowDataRaw: Device[] = [];
+  romData2: Rom[] = [];
 
 rowData: Device[] = [];
 
@@ -52,6 +60,22 @@ rowData: Device[] = [];
     });
   }
 
+  onGridReady2(params: GridReadyEvent<Rom>) {
+    this.gridApi2 = params.api;
+    const baseHref = document.baseURI; // Retrieves the base href dynamically
+    fetch(`${baseHref}data/rom_device_counts.csv`)
+    .then(response => response.text())
+    .then(data => {
+      let lines = data.split('\n');
+      for (let i = 1; i < lines.length; i++) {
+        console.log(lines[i]);
+        let cols = lines[i].split(',');
+        this.romData2.push({ [ROM]: cols[0], [NUMBER_OF_DEVICES]: parseInt(cols[1]) });
+      }
+      this.gridApi2.setGridOption( 'rowData', this.romData2 );
+    });
+  }
+
 // Column Definitions: Defines the columns to be displayed.
 colDefs: ColDef[] = [
   { field: RETAIL_BRANDING, sortable: true, filter: true },
@@ -59,5 +83,10 @@ colDefs: ColDef[] = [
   { field: CODE_NAME, sortable: true, filter: true },
   { field: MODEL, sortable: true, filter: true },
   { field: ROMS, sortable: true, filter: true }
+];
+
+coldefs2: ColDef[] = [
+  { field: ROM, sortable: true, filter: true },
+  { field: NUMBER_OF_DEVICES, sortable: true, filter: true }
 ];
 }
