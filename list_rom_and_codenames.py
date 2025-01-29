@@ -22,8 +22,6 @@ def execute_get_supported_devices(directory):
                         results[file_name] = result
                     except Exception as e:
                         results[file_name] = f"Error: {e}"
-                else:
-                    results[file_name] = "No getSupportedDevices method found"
     return results
 
 
