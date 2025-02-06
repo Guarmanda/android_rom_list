@@ -1,5 +1,4 @@
 import time
-from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -24,7 +23,7 @@ def get_driver(url, wait_load_element_id=None, wait_load_element_class=None, wai
     options.add_argument('headless')
     options.add_argument("disable-gpu")
     options.headless = True
-    options.binary_location = "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe"
+    options.binary_location = "C:\\Users\\Admin\\Desktop\\chromedriver-win64\\brave.exe"
     # Initialize the WebDriver (Chrome in this example)
     service = Service(executable_path=driver_path)
     driver = webdriver.Chrome(service=service, options=options)

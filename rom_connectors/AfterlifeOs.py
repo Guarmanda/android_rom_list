@@ -6,6 +6,7 @@ from rom_connectors.utils import get_driver
 
 
 def getSupportedDevices():
+    print("This one takes a while, please wait...") 
     driver = get_driver("https://afterlifeos.com/device/", wait_load_element_id="brxe-oaesby")  
             
     # check if elem of class fc-cta-do-not-consent is present, and click it if so

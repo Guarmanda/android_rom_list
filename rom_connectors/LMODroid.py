@@ -1,4 +1,4 @@
-from utils import get_driver
+from rom_connectors.utils import get_driver
 from selenium.webdriver.common.by import By
 
 # official, a non-official list is also avalaible

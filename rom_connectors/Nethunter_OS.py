@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from utils import get_html
+from rom_connectors.utils import get_html
 
 def getSupportedDevices():
     html = get_html('https://nethunter.kali.org/images.html')
@@ -7,11 +7,8 @@ def getSupportedDevices():
     supported_devices = []
     soup = BeautifulSoup(html, 'html.parser')
     # find elem with id pretty
-    table = soup.find('table', id='pretty')
-    for elem in table:
-        # add second column to supported_devices
-        supported_devices.append(elem.contents[1].text)
+    for row in soup.findAll('table')[0].tbody.findAll('tr'):
+        supported_devices.append(row.findAll('td')[2].contents[0].split("-")[0])
     return supported_devices
 
-print(getSupportedDevices())
 
