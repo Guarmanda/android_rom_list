@@ -1,4 +1,4 @@
-from rom_connectors.utils import get_driver
+from utils import get_driver
 from selenium.webdriver.common.by import By
 
 def getSupportedDevices():
@@ -14,3 +14,4 @@ def getSupportedDevices():
         supported_devices.append(elem.get_attribute('href').split('/')[4])
     return supported_devices
 
+print(getSupportedDevices())

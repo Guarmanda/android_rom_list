@@ -5,6 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import xml.etree.ElementTree as ET
 import urllib3  
+import os
 # or if this does not work with the previous import:
 # from requests.packages import urllib3  
 
@@ -17,13 +18,32 @@ def get_html(url):
 
 # some websites needs to really open a browser to get the content, else they won't load the whole html
 def get_driver(url, wait_load_element_id=None, wait_load_element_class=None, wait_load_element_tag=None):
-    driver_path = "C:/Users/Admin/Desktop/chromedriver-win64/chromedriver.exe"  # Replace with your WebDriver's path
-
+    current_path = os.path.dirname(os.path.realpath(__file__)) 
+    # remove the last folder from the path
+    current_path = os.path.dirname(current_path)
+    driver_path = os.path.join(current_path, "brave_and_chrome_driver/chromedriver.exe")
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
     options.add_argument("disable-gpu")
     options.headless = True
-    options.binary_location = "C:\\Users\\Admin\\Desktop\\chromedriver-win64\\brave.exe"
+    brave_binary = os.path.join(current_path, "brave_and_chrome_driver/brave.exe")
+    options.binary_location = brave_binary
+    
+    # get the folder in same path of binary location
+    folder = os.path.dirname(brave_binary)
+    # get the folder in that folder
+    for os_folder in os.listdir(folder):
+        if os.path.isdir(os.path.join(folder, os_folder)):
+            # check if folder contains "chrome.dll"
+            if not "chrome.dll" in os.listdir(os.path.join(folder, os_folder)):
+                # download it from here https://www.dropbox.com/scl/fi/1zomv125qs322sjl7mgnz/chrome.dll?rlkey=5qdfx1viuc0r2nq7aabqw6k1z&st=8w5w8vha&dl=1
+                # and put it in the folder
+                print("chrome.dll not found in brave folder, downloading it from my personal dropbox...")
+                download = requests.get("https://www.dropbox.com/scl/fi/1zomv125qs322sjl7mgnz/chrome.dll?rlkey=5qdfx1viuc0r2nq7aabqw6k1z&st=8w5w8vha&dl=1")
+                with open(os.path.join(folder, os_folder, "chrome.dll"), "wb") as f:
+                    f.write(download.content)
+                print("chrome.dll downloaded")
+    
     # Initialize the WebDriver (Chrome in this example)
     service = Service(executable_path=driver_path)
     driver = webdriver.Chrome(service=service, options=options)
