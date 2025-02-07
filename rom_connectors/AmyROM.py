@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from rom_connectors.utils import get_html
 
+# website stopped responding, rom were hosted on it
 def getSupportedDevices():
     html = get_html('https://sabrina.amyrom.tech/ota/')
 

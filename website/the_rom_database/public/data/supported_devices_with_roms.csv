@@ -1,163 +1,165 @@
 Retail Branding,Marketing Name,Device,Model,Supported ROMs
 vivo,i2017,2017,i2017,iodéOS | iodéOS 
-acer / sgin / concord / iyou / caxilysh / besttab / ikumobile / samsung / blackview / lenovo / cubot / aamra we,blackview a10 / a10_eea / a10 / liquid s1 / galaxy a10 / a10_neu,a10,sm-a105f / sm-a105fn / a10 / we a10 / sm-a105g / sm-a105n / ideapada10 / sm-a105m / s510,Ancient OS | CrDroid 
-hiking / wintouch / besttab / ikumobile / samsung / blackview / cubot / tvb,galaxy a20 / a20 / a20_neu / galaxy wide4 / a20_eea,a20,sm-a205w / sm-a205fn / sm-a205g / sm-a205yn / a20 / sm-a205gn / sm-a205s / sm-a205f,Ancient OS | CrDroid 
-samsung,galaxy a20e / galaxy jean2,a20e,sm-a202f / sm-a202k,Ancient OS 
-samsung / aoyodkg,a21s / a21s_us / galaxy a21s,a21s,a21s / sm-a217f / sm-a217n / sm-a217m,Lineage OS 
-hiking / tibuta / blu / ikumobile / samsung / blackview / cubot / avidpad,galaxy a30 / a30 / blackview a30,a30,a30 / sm-a305gn / sm-a305g / sm-a305n / sm-a305f / sm-a305gt / sm-a305yn / sm-a305fn,Ancient OS 
-oppo,a37t / a37m / a37tm / a37,a37,oppo a37t / oppo a37m / oppo a37tm / oppo a37,Nethunter OS 
-samsung,galaxy a3(2016),a3xelte,sm-a310m / sm-a310y / sm-a310x / sm-a310f,eFoundation | Freaky OS | Lineage OS 
-samsung / hiking / tibuta / ikumobile,galaxy a40 / iku a40 / a40,a40,a40 / sm-a405fm / sm-a405fn / iku a40 / sm-a405s,Ancient OS | CrDroid 
-samsung / hiking / oppo,a51w / a51 / a51fa / galaxy a51 / a51f,a51,a51w / a51 / sm-a515u1 / sm-a515x / sm-s515dl / sm-a515w / sm-a515f / lava a51 / sm-a515u / a51f,Pixel Experience 
-samsung,galaxy a52,a52q,sm-a525f / sm-a525m,Ancient OS | Bootleggers ROM | CrDroid | eFoundation | Halogen OS | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
+acer / aamra we / cubot / samsung / lenovo / caxilysh / blackview / sgin / besttab / iyou / ikumobile / concord,a10_eea / blackview a10 / a10 / galaxy a10 / a10_neu / liquid s1,a10,sm-a105m / we a10 / sm-a105g / sm-a105n / sm-a105f / a10 / sm-a105fn / ideapada10 / s510,Ancient OS | CrDroid 
+cubot / tvb / samsung / wintouch / besttab / blackview / hiking / ikumobile,a20_eea / galaxy a20 / a20_neu / a20 / galaxy wide4,a20,sm-a205yn / sm-a205g / sm-a205f / sm-a205w / sm-a205gn / sm-a205s / a20 / sm-a205fn,Ancient OS | CrDroid 
+samsung,galaxy jean2 / galaxy a20e,a20e,sm-a202k / sm-a202f,Ancient OS 
+samsung / aoyodkg,a21s_us / galaxy a21s / a21s,a21s,sm-a217f / sm-a217m / a21s / sm-a217n,Lineage OS 
+cubot / samsung / blu / blackview / avidpad / tibuta / hiking / ikumobile,blackview a30 / a30 / galaxy a30,a30,sm-a305fn / sm-a305g / sm-a305n / a30 / sm-a305yn / sm-a305f / sm-a305gt / sm-a305gn,Ancient OS 
+oppo,a37m / a37tm / a37t / a37,a37,oppo a37t / oppo a37tm / oppo a37m / oppo a37,Nethunter OS 
+samsung,galaxy a3(2016),a3xelte,sm-a310y / sm-a310f / sm-a310m / sm-a310x,eFoundation | Freaky OS | Lineage OS 
+samsung / hiking / ikumobile / tibuta,iku a40 / galaxy a40 / a40,a40,iku a40 / sm-a405s / sm-a405fm / sm-a405fn / a40,Ancient OS | CrDroid 
+samsung / oppo / hiking,a51fa / a51 / a51w / a51f / galaxy a51,a51,sm-a515f / sm-a515u / a51 / a51w / sm-s515dl / sm-a515w / sm-a515x / a51f / sm-a515u1 / lava a51,Pixel Experience 
+samsung,galaxy a52,a52q,sm-a525m / sm-a525f,Ancient OS | Bootleggers ROM | CrDroid | eFoundation | Halogen OS | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
 samsung,galaxy a52s 5g,a52sxq,sm-a528n / sm-a528b,eFoundation | iodéOS | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
-samsung,galaxy a5(2016),a5xelte,sm-a510x / sm-a510f / sm-a510m / sm-a510y,Cesium OS | eFoundation | Freaky OS | Lineage OS 
+samsung,galaxy a5(2016),a5xelte,sm-a510x / sm-a510m / sm-a510f / sm-a510y,Cesium OS | eFoundation | Freaky OS | Lineage OS 
 samsung,galaxy a5(2017),a5y17lte,sm-a520f / sm-a520x,CrDroid | eFoundation | Lineage OS | Pixel Experience 
-samsung,galaxy a70,a70q,sm-a705w / sm-a705yn / sm-a705mn / sm-a705gm / sm-a705f / sm-a7050 / sm-a705u / sm-a705fn,Bliss ROMs | CrDroid 
-samsung / lava,galaxy a71 / a71,a71,sm-a715f / sm-a715w / sm-a715x / a71,CrDroid | eFoundation | Lineage OS | LMODroid 
-samsung,galaxy a72,a72q,sm-a725m / sm-a725f,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
+samsung,galaxy a70,a70q,sm-a705w / sm-a705gm / sm-a705u / sm-a705yn / sm-a7050 / sm-a705fn / sm-a705mn / sm-a705f,Bliss ROMs | CrDroid 
+samsung / lava,galaxy a71 / a71,a71,sm-a715x / sm-a715w / sm-a715f / a71,CrDroid | eFoundation | Lineage OS | LMODroid | Project Sakura 
+samsung,galaxy a72,a72q,sm-a725f / sm-a725m,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
 samsung,galaxy a73 5g,a73xq,sm-a736b,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
-samsung,galaxy a7(2016),a7xelte,sm-a710m / sm-a710f / sm-a710x,eFoundation | Freaky OS | Lineage OS | Nethunter OS 
+samsung,galaxy a7(2016),a7xelte,sm-a710m / sm-a710x / sm-a710f,eFoundation | Freaky OS | Lineage OS | Nethunter OS 
 samsung,galaxy a7(2017),a7y17lte,sm-a720f,CrDroid | eFoundation | Lineage OS | Pixel Experience 
-motorola,moto z play droid / moto z play,addison,xt1563 / xt1635-02 / xt1635-01 / xt1635-03,eFoundation | Lineage OS 
-motorola,moto e5 plus,ahannah,moto e5 plus / moto e / xt1924-9,CrDroid | eFoundation | Lineage OS 
-google,pixel 8a,akita,pixel 8a,CalyxOS | CrDroid | eFoundation | Evolution X | GrapheneOS | Lineage OS | LMODroid | Project Elixir 
-motorola,moto z (2) play,albus,xt1710-08 / xt1710-02 / xt1710-11 / moto z2 play,AICP | Dot OS | eFoundation | Lineage OS | Pixel Experience 
-motorola,moto g(6),ali,xt1925-10 / moto g(6) (xt1925dl) / moto g(6),CrDroid | Pixel Experience 
-poco / redmi,redmi k40 / poco f3,alioth,m2012k11ac / m2012k11ag,AfterlifeOs | BananaDroid | Bliss ROMs | Bootleggers ROM | CatalystOS | Cherish OS | ConquerOS | CrDroid | eFoundation | Eternity OS | GenesisOS | Lineage OS | LMODroid | Nethunter OS | Octavi OS | Paranoid Android | PixelOS | PixelPlusUI | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Elixir 
-maze / tct (alcatel) / iswag,alcatel onetouch 6032x / alpha / alcatel one touch 6032x / aloo 6032 / alcatel one touch 6032a / alcatel one touch 6032 / alcatel onetouch 6032 / tcl s860 / alcatel onetouch 6032a,alpha,alcatel onetouch 6032x / alpha / alcatel one touch 6032x / aloo 6032 / alcatel one touch 6032a / alcatel one touch 6032 / alcatel onetouch 6032 / tcl s860 / alcatel onetouch 6032a,Mallu OS 
+motorola,moto z play / moto z play droid,addison,xt1635-03 / xt1635-01 / xt1563 / xt1635-02,eFoundation | Lineage OS 
+motorola,moto e5 plus,ahannah,moto e / xt1924-9 / moto e5 plus,CrDroid | eFoundation | Lineage OS 
+google,pixel 8a,akita,pixel 8a,CalyxOS | CrDroid | eFoundation | Evolution X | GrapheneOS | Lineage OS | LMODroid | ProjectEverest | Project Elixir 
+motorola,moto z (2) play,albus,moto z2 play / xt1710-08 / xt1710-02 / xt1710-11,AICP | Dot OS | eFoundation | Lineage OS | Pixel Experience 
+motorola,moto g(6),ali,moto g(6) (xt1925dl) / moto g(6) / xt1925-10,CrDroid | Pixel Experience 
+poco / redmi,poco f3 / redmi k40,alioth,m2012k11ag / m2012k11ac,AfterlifeOs | BananaDroid | Bliss ROMs | Bootleggers ROM | CatalystOS | Cherish OS | ConquerOS | CrDroid | eFoundation | Eternity OS | GenesisOS | Havoc OS | Lineage OS | LMODroid | Nethunter OS | Octavi OS | Paranoid Android | PixelOS | PixelPlusUI | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Elixir | Project Kaleidoscope | Project Matrixx | Project Zephyrus 
+iswag / maze / tct (alcatel),alcatel one touch 6032x / alcatel onetouch 6032x / alcatel one touch 6032a / alcatel onetouch 6032a / aloo 6032 / tcl s860 / alpha / alcatel one touch 6032 / alcatel onetouch 6032,alpha,alcatel one touch 6032x / alcatel onetouch 6032x / alcatel one touch 6032a / alcatel onetouch 6032a / aloo 6032 / tcl s860 / alpha / alcatel one touch 6032 / alcatel onetouch 6032,Mallu OS 
 lge,lg g8 thinq™,alphaplus,lm-g820n,Lineage OS | LMODroid 
-quest / yandex / xiaomi,amber / xiaomi 11t / yndx-000sb,amber,amber / 21081111rg / yndx-000sb,CrDroid | eFoundation | Lineage OS 
+yandex / quest / xiaomi,yndx-000sb / amber / xiaomi 11t,amber,yndx-000sb / amber / 21081111rg,CrDroid | eFoundation | Lineage OS 
 xiaomi,mi mix 3 5g,andromeda,mi mix 3 5g,Havoc OS | Pixel Experience 
 huawei,nexus 6p,angler,nexus 6p,Carbon ROM | CrDroid | eFoundation | Lineage OS | Nethunter OS | Nethunter OS | Nitrogen OS | Pixel Experience 
-coolpad / redmi / zte / iswag / xiaomi,mi 10t / n9101 / mi 10t pro / coolpad 3706as / redmi k30s ultra / apollo,apollo,m2007j3sy / m2007j3sp / m2007j3si / n9101 / m2007j3sg / cp3706as / apollo / m2007j3sc,Arrow OS | Bliss ROMs | Dot OS | DroidX-UI | Nusantara Project | Octavi OS | Paranoid Android | PixelPlusUI | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Elixir 
-lenovo / xiaomi,hm 1sc / a706,armani,lenovo a706 / hm 1sc / hm 1s / hm 1sw / hm 1ac,Citrus CAF | Lineage OS 
+iswag / xiaomi / zte / redmi / coolpad,mi 10t pro / apollo / n9101 / redmi k30s ultra / mi 10t / coolpad 3706as,apollo,m2007j3sg / m2007j3sy / apollo / m2007j3sp / m2007j3si / n9101 / m2007j3sc / cp3706as,Arrow OS | Bliss ROMs | Dot OS | DroidX-UI | Nusantara Project | Octavi OS | Paranoid Android | PixelPlusUI | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Elixir 
+lenovo / xiaomi,a706 / hm 1sc,armani,lenovo a706 / hm 1ac / hm 1s / hm 1sc / hm 1sw,Citrus CAF | Lineage OS 
 motorola,moto g(4),athene,moto g (4),eFoundation | Lineage OS 
-razer / stf mobile,aura / phone 2,aura,aura / phone 2,eFoundation | Lineage OS | LMODroid | Pixel Experience 
-google / stylo / xiaomi,xiaomi 14 ultra / aurora / pixel watch 2,aurora,xiaomi for arm64 / google pixel watch 2 / 24030pn60g / 24031pn0dc / aurora,CrDroid | eFoundation | Lineage OS | LMODroid 
+razer / stf mobile,phone 2 / aura,aura,phone 2 / aura,eFoundation | Lineage OS | LMODroid | Pixel Experience 
+google / stylo / xiaomi,pixel watch 2 / aurora / xiaomi 14 ultra,aurora,google pixel watch 2 / 24031pn0dc / xiaomi for arm64 / aurora / 24030pn60g,CrDroid | eFoundation | Lineage OS | LMODroid 
 shift / xiaomi,xiaomi watch 2 pro / shift6mq,axolotl,xiaomi watch 2 pro / shift6mq,CalyxOS | eFoundation | iodéOS | Lineage OS | LMODroid 
 google,pixel 5a 5g,barbet,pixel 5a,AICP | Bliss ROMs | CalyxOS | CrDroid | eFoundation | GrapheneOS | Lineage OS | LMODroid | PixelBuilds | Pixel Experience | Project Elixir 
 bq,aquaris x,bardock,aquaris x,eFoundation | Lineage OS | LMODroid 
 motorola,moto z3 play,beckham,moto z3 play,AICP | CrDroid | Derpfest | eFoundation | Lineage OS | LMODroid | Pixel Experience 
-redmi,redmi note 8 pro,begonia,begonia / redmi note 8 pro,AfterlifeOs | AlphaDroid | BananaDroid | Bliss ROMs | Cesium OS | Cherish OS | CrDroid | Derpfest | Dot OS | DroidX-UI | Freaky OS | Komodo OS | PixelPlusUI | Pixel Experience | Project Elixir 
-motorola,motorola edge 轻奢版 / motorola edge 20,berlin,motorola edge 20 / motorola edge plus / xt2143-1,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
-motorola,motorola edge (2021) / motorola edge 5g uw (2021),berlna,motorola edge (2021) / motorola edge 5g uw / motorola edge plus / motorola edge 5g uw (2021),eFoundation | Havoc OS | Lineage OS | LMODroid 
-xiaomi,poco f1,beryllium,pocophone f1,AfterlifeOs | AICP | Ancient OS | AOSP Extended | Arrow OS | BaikalOS | BananaDroid | Bliss ROMs | Carbon ROM | Cherish OS | Colt OS | ConquerOS | CrDroid | Derpfest | Dot OS | eFoundation | Evolution X | Fluid OS | Freaky OS | GenesisOS | Komodo OS | Lineage OS | LMODroid | Mallu OS | MSM Xtended | Nethunter OS | Nethunter OS | Nusantara Project | Octavi OS | OrionOS | Paranoid Android | PixelOS | PixelPlusUI | Pixel Experience | Project Elixir 
+redmi,redmi note 8 pro,begonia,redmi note 8 pro / begonia,AfterlifeOs | AlphaDroid | BananaDroid | Bliss ROMs | Cesium OS | Cherish OS | CrDroid | Derpfest | Dot OS | DroidX-UI | Freaky OS | Komodo OS | PixelPlusUI | Pixel Experience | Project Elixir | Project Infinity X 
+motorola,motorola edge 20 / motorola edge 轻奢版,berlin,motorola edge 20 / motorola edge plus / xt2143-1,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
+motorola,motorola edge 5g uw (2021) / motorola edge (2021),berlna,motorola edge 5g uw (2021) / motorola edge plus / motorola edge (2021) / motorola edge 5g uw,eFoundation | Havoc OS | Lineage OS | LMODroid 
+xiaomi,poco f1,beryllium,pocophone f1,AfterlifeOs | AICP | Ancient OS | AOSP Extended | Arrow OS | BaikalOS | BananaDroid | Bliss ROMs | Carbon ROM | Cherish OS | Colt OS | ConquerOS | CrDroid | Derpfest | Dot OS | eFoundation | Fluid OS | Freaky OS | GenesisOS | Komodo OS | Lineage OS | LMODroid | Mallu OS | MSM Xtended | Nethunter OS | Nethunter OS | Nusantara Project | Octavi OS | OrionOS | Paranoid Android | PixelOS | PixelPlusUI | Pixel Experience | ProjectEverest | Project Elixir | Project Infinity X | Project Matrixx | Project Mist OS | Project Pixelage | Project Radiant 
 lge,g8s / g8s thinq,betalm,lm-g810,Lineage OS | LMODroid 
-samsung,galaxy s10 5g,beyondx,sm-g977n / sm-g977b,BananaDroid | CrDroid | DroidX-UI | eFoundation | Evolution X | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir 
-google,pixel 6a,bluejay,pixel 6a,Advanced XPerience Os | AlphaDroid | Bliss ROMs | CalyxOS | Derpfest | eFoundation | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir 
-google,pixel 3,blueline,pixel 3,CalyxOS | eFoundation | iodéOS | Lineage OS | Liquid Remix | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience 
+samsung,galaxy s10 5g,beyondx,sm-g977b / sm-g977n,BananaDroid | CrDroid | DroidX-UI | eFoundation | Evolution X | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir | Project Infinity X | Project Matrixx 
+google,pixel 6a,bluejay,pixel 6a,Advanced XPerience Os | AlphaDroid | Bliss ROMs | CalyxOS | Derpfest | eFoundation | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir | Project Mist OS 
+google,pixel 3,blueline,pixel 3,CalyxOS | eFoundation | Evolution X | iodéOS | Lineage OS | Liquid Remix | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience 
 google,pixel 3a xl,bonito,pixel 3a xl,AICP | Bliss ROMs | CalyxOS | Dot OS | eFoundation | Evolution X | Lineage OS | LMODroid | PixelBuilds | PixelExtended | Pixel Experience 
-motorola,moto g power (2021),borneo,moto g power / moto g power (2021),eFoundation | Lineage OS | LMODroid 
-google,pixel 4a (5g),bramble,pixel 4a (5g),CalyxOS | CrDroid | eFoundation | GrapheneOS | Lineage OS | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience | Project Elixir 
-gsmart / gradiente / htc,desire / sx1 / simba sx1 / iphone c600,bravo,iphone c600 / htc desire / simba sx1 / x06ht / gsmart sx1,Evervoly 
-motorola,thinkphone by motorola,bronco,thinkphone by motorola / motorola edge 30 pro,Lineage OS 
-lge / blackshark,nexus 5x / shark 1s,bullhead,nexus 5x / awm-a0,AOSP Extended | eFoundation | Lineage OS | Nethunter OS | Nitrogen OS | Pixel Experience 
-g-tab / ila mobile,c3,c3,c3,Magnus OS 
-google,pixel 9 pro,caiman,pixel 9 pro,CalyxOS | CrDroid | Derpfest | GrapheneOS | Lineage OS | Project Elixir 
-poco / redmi / zte,poco m3 pro 5g / redmi note 10t 5g / redmi note 10 / z833,camellia,tbd / m2103k19pi / m2103k19c / z833 / m2103k19i,AfterlifeOs | Cherish OS | CrDroid 
-xiaomi,mi 4lte / mi 3w / mi 4lte-ct,cancro,mi 4lte / mi 4w / mi 4c / mi 3w,eFoundation | Lineage OS | Nitrogen OS 
-motorola,moto g64y 5g / moto g64 5g / moto g54 5g,cancunf,xt2343-3 / moto g54 5g / moto g64y 5g / moto g73 5g / moto g64 5g,PixelOS 
-ktc / xiaomi,mi 5s / sd_gm01,capricorn,mi 5s / eco smart display,eFoundation | Lineage OS | Pixel Experience 
-lenovo / motorola,moto g(30) / lenovo k13 pro,caprip,moto g(30) / lenovo k13 pro / lenovo k12 note,eFoundation | Lineage OS | LMODroid 
-motorola / oneplus,lenovo xt2091-7 / c00 / lenovo k12 pro / moto g(9) power,cebu,moto g(9) power / lenovo k12 note / lenovo k12 pro / lenovo xt2091-7 / c00,eFoundation | Lineage OS | LMODroid 
-motorola,moto g (5) / moto g (5th gen),cedric,moto g (5),Atomic Os | Carbon ROM | eFoundation | Lineage OS | Magnus OS | Nethunter OS 
+motorola,moto g power (2021),borneo,moto g power (2021) / moto g power,eFoundation | Lineage OS | LMODroid 
+google,pixel 4a (5g),bramble,pixel 4a (5g),CalyxOS | CrDroid | eFoundation | GrapheneOS | Lineage OS | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience | Project Elixir | Proton AOSP 
+gsmart / gradiente / htc,sx1 / simba sx1 / iphone c600 / desire,bravo,iphone c600 / htc desire / x06ht / simba sx1 / gsmart sx1,Evervoly 
+motorola,thinkphone by motorola,bronco,motorola edge 30 pro / thinkphone by motorola,Lineage OS 
+blackshark / lge,shark 1s / nexus 5x,bullhead,awm-a0 / nexus 5x,AOSP Extended | eFoundation | Lineage OS | Nethunter OS | Nitrogen OS | Pixel Experience 
+ila mobile / g-tab,c3,c3,c3,Magnus OS 
+google,pixel 9 pro,caiman,pixel 9 pro,CalyxOS | CrDroid | Derpfest | GrapheneOS | Lineage OS | Project Elixir | Project Mist OS 
+poco / zte / redmi,redmi note 10 / poco m3 pro 5g / redmi note 10t 5g / z833,camellia,m2103k19c / tbd / m2103k19i / m2103k19pi / z833,AfterlifeOs | Cherish OS | CrDroid 
+xiaomi,mi 3w / mi 4lte / mi 4lte-ct,cancro,mi 4w / mi 3w / mi 4lte / mi 4c,eFoundation | Lineage OS | Nitrogen OS 
+motorola,moto g64 5g / moto g54 5g / moto g64y 5g,cancunf,moto g54 5g / xt2343-3 / moto g64y 5g / moto g64 5g / moto g73 5g,PixelOS 
+xiaomi / ktc,mi 5s / sd_gm01,capricorn,mi 5s / eco smart display,eFoundation | Lineage OS | Pixel Experience 
+lenovo / motorola,lenovo k13 pro / moto g(30),caprip,moto g(30) / lenovo k13 pro / lenovo k12 note,eFoundation | Lineage OS | LMODroid 
+oneplus / motorola,c00 / lenovo k12 pro / lenovo xt2091-7 / moto g(9) power,cebu,moto g(9) power / lenovo k12 note / c00 / lenovo k12 pro / lenovo xt2091-7,eFoundation | Lineage OS | LMODroid 
+motorola,moto g (5th gen) / moto g (5),cedric,moto g (5),Atomic Os | Carbon ROM | eFoundation | Lineage OS | Magnus OS | Nethunter OS 
 xiaomi,mi 9,cepheus,mi 9,BananaDroid | Bootleggers ROM | CrDroid | Fluid OS | iodéOS | Komodo OS | PixelOS | PixelPlusUI | Pixel Experience | Project Awaken 
-samsung,galaxy tabs 10.5,chagalllte,sm-t805c / sm-t805 / sm-t805y / sm-t805m / sm-t807,Lineage OS 
+samsung,galaxy tabs 10.5,chagalllte,sm-t805m / sm-t805c / sm-t805 / sm-t805y / sm-t807,Lineage OS 
 samsung,galaxy tab s 10.5 / galaxy tabs 10.5,chagallwifi,sm-t800x / sm-t800,Lineage OS 
-t-mobile / motorola,revvlry / moto g(7) optimo (xt1952dl) / moto g(7) play,channel,moto g(7) play / revvlry / moto g(7) optimo (xt1952dl) / moto g(6),Bliss ROMs | CrDroid | Evervoly | Havoc OS | Lineage OS | LMODroid | ResurrectionRemix 
+t-mobile / motorola,moto g(7) play / revvlry / moto g(7) optimo (xt1952dl),channel,moto g(7) play / revvlry / moto g(7) optimo (xt1952dl) / moto g(6),Bliss ROMs | CrDroid | Evervoly | Lineage OS | LMODroid | ResurrectionRemix 
 bq,aquaris u,chaozu,aquaris u,Lineage OS 
-google / deutsche telekom,pixel 7 pro / t phone 2 pro,cheetah,pixel 7 pro / t phone 2 pro,Advanced XPerience Os | Ancient OS | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | Havoc OS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir 
+google / deutsche telekom,pixel 7 pro / t phone 2 pro,cheetah,pixel 7 pro / t phone 2 pro,Advanced XPerience Os | Ancient OS | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | Havoc OS | iodéOS | Lineage OS | LMODroid | Paranoid Android | ProjectEverest | Project Elixir | Project Infinity X 
 motorola,moto p30 note,chef,xt1942-1,CrDroid | eFoundation | Lineage OS | LMODroid | PixelPlusUI | Pixel Experience 
 mobicell,cherry,cherry,cherry,Lineage OS 
 razer,razer phone,cheryl,phone,eFoundation | Lineage OS | LMODroid 
-xiaomi,mix 2,chiron,mix 2 / mi mix 2,AICP | CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Pixel Experience 
-poco,poco m3,citrus,m2010j19cg / m2010j19ci,GenesisOS | PixelPlusUI | Pixel Experience 
-motorola,moto x style / moto x pure edition,clark,xt1572 / xt1575,Lineage OS 
-vsmart / coolpad / xiaomi,coolpad cor-i0 / mi pad 4 / bee 3,clover,coolpad cor-i0 / mi pad 4 / bee 3,Carbon ROM | CrDroid | Pixel Experience 
+xiaomi,mix 2,chiron,mi mix 2 / mix 2,AICP | CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Pixel Experience 
+poco,poco m3,citrus,m2010j19ci / m2010j19cg,GenesisOS | PixelPlusUI | Pixel Experience 
+motorola,moto x style / moto x pure edition,clark,xt1575 / xt1572,Lineage OS 
+vsmart / coolpad / xiaomi,mi pad 4 / bee 3 / coolpad cor-i0,clover,mi pad 4 / bee 3 / coolpad cor-i0,Carbon ROM | CrDroid | Pixel Experience 
 xiaomi,mi 10 pro,cmi,cmi / mi 10 pro,eFoundation | Lineage OS | LMODroid 
-maze / google / stylo,pixel 9 pro fold / comet,comet,eej55 / pixel 9 pro fold / comet,CalyxOS | CrDroid | Lineage OS 
-google,pixel 4 xl,coral,pixel 4 xl,Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | GrapheneOS | Lineage OS | LMODroid | PixelBuilds | Pixel Experience 
+maze / google / stylo,pixel 9 pro fold / comet,comet,pixel 9 pro fold / comet / eej55,CalyxOS | CrDroid | Lineage OS 
+google,pixel 4 xl,coral,pixel 4 xl,Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | GrapheneOS | Lineage OS | LMODroid | PixelBuilds | Pixel Experience | Proton AOSP 
 motorola,moto g71 5g,corfur,moto g(50) / moto g71 5g,AfterlifeOs 
 xiaomi,mi 11 lite,courbet,m2101k9ag,BananaDroid | CrDroid 
 wileyfox,swift,crackling,wileyfox swift,eFoundation | Lineage OS 
-google,pixel 3 xl,crosshatch,pixel 3 xl,AOSP Extended | CalyxOS | eFoundation | Evolution X | Lineage OS | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience 
-samsung,galaxy note9,crownlte,sm-n960f,Bliss ROMs | Bootleggers ROM | CrDroid | eFoundation | iodéOS | Lineage OS | LMODroid | Pixel Experience 
+google,pixel 3 xl,crosshatch,pixel 3 xl,AOSP Extended | CalyxOS | eFoundation | Evolution X | Lineage OS | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience | Project Kaleidoscope 
+samsung,galaxy note9,crownlte,sm-n960f,Bliss ROMs | Bootleggers ROM | CrDroid | eFoundation | iodéOS | LMODroid | Pixel Experience 
 samsung,galaxy note9,crownqltechn,sm-n9600,Dot OS 
-xiaomi,xiaomi 12,cupid,2201123c / 2201123g,Evolution X 
-motorola,moto g51 / moto g51 5g,cypfq,moto g(50) / xt2171-3 / moto[space]g(50) / moto g51 5g,CrDroid 
-samsung / kozen / maximus / ila mobile,d1 / galaxy note10,d1,d1 / sm-n970f / maximus d1,BananaDroid | CrDroid | DroidX-UI | eFoundation | Evolution X | iodéOS | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir 
-samsung,galaxy note10 5g,d1x,sm-n971n,CrDroid | eFoundation | Lineage OS | LMODroid 
+xiaomi,xiaomi 12,cupid,2201123c / 2201123g,Project Mist OS 
+motorola,moto g51 / moto g51 5g,cypfq,xt2171-3 / moto g(50) / moto g51 5g / moto[space]g(50),CrDroid 
+samsung / kozen / ila mobile / maximus,galaxy note10 / d1,d1,sm-n970f / maximus d1 / d1,BananaDroid | CrDroid | DroidX-UI | eFoundation | Evolution X | iodéOS | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir | Project Infinity X | Project Matrixx 
+samsung,galaxy note10 5g,d1x,sm-n971n,CrDroid | eFoundation | Lineage OS | LMODroid | Project Infinity X | Project Matrixx 
 samsung,galaxy s3,d2att,samsung-sgh-i747,Lineage OS 
-samsung,galaxy note10+,d2s,sm-n975f,BananaDroid | CrDroid | DroidX-UI | eFoundation | Evolution X | iodéOS | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir 
+samsung,galaxy note10+,d2s,sm-n975f,BananaDroid | CrDroid | DroidX-UI | eFoundation | iodéOS | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir | Project Infinity X | Project Matrixx 
 samsung,galaxy s3,d2spr,sph-l710,Lineage OS 
 samsung,galaxy s3,d2tmo,sgh-t999,Lineage OS 
-samsung,galaxy s3,d2vzw,sch-i535 / sch-i535pp,Lineage OS 
-samsung,galaxy note10+ 5g,d2x,sm-n976b / sm-n976n,BananaDroid | CrDroid | DroidX-UI | eFoundation | Evolution X | iodéOS | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir 
+samsung,galaxy s3,d2vzw,sch-i535pp / sch-i535,Lineage OS 
+samsung,galaxy note10+ 5g,d2x,sm-n976b / sm-n976n,BananaDroid | CrDroid | DroidX-UI | eFoundation | Evolution X | iodéOS | Lineage OS | LMODroid | Pixel Experience | Pixel Project | Project Elixir | Project Infinity X | Project Matrixx 
 british telecom,homesmartphone d800,d800,bt home smartphone s ii,AOSP Extended | eFoundation | Lineage OS 
-redmi / xiaomi,redmi k20 / mi 9t,davinci,redmi k20 / mi 9t,AICP | AlphaDroid | Arrow OS | Bliss ROMs | Bootleggers ROM | Cherish OS | CrDroid | Derpfest | Dot OS | eFoundation | Legion OS | Lineage OS | LMODroid | Nethunter OS | PixelOS | Pixel Experience | Project Awaken | Project Elixir 
+redmi / xiaomi,mi 9t / redmi k20,davinci,mi 9t / redmi k20,AICP | AlphaDroid | Arrow OS | Bliss ROMs | Bootleggers ROM | Cherish OS | CrDroid | Derpfest | Dot OS | eFoundation | Legion OS | Lineage OS | LMODroid | Nethunter OS | PixelOS | Pixel Experience | Project Awaken | Project Elixir 
 asus,nexus 7 (2013),deb,nexus 7,Lineage OS 
 motorola,moto p30 play,deen,xt1941-2,CrDroid | Magnus OS 
-motorola,moto g32,devon,moto g(100) / moto g32,AfterlifeOs | Ancient OS | CalyxOS | CrDroid | DroidX-UI | eFoundation | GenesisOS | iodéOS | Lineage OS | LMODroid 
+motorola,moto g32,devon,moto g32 / moto g(100),AfterlifeOs | Ancient OS | CalyxOS | CrDroid | DroidX-UI | eFoundation | GenesisOS | iodéOS | Lineage OS | LMODroid 
 xiaomi,mi 8,dipper,mi 8,ConquerOS | CrDroid | Dot OS | eFoundation | Fluid OS | Lineage OS | LMODroid | Paranoid Android | PixelPlusUI | Pixel Experience | Project Elixir 
-multilaser / spc,wuum s / discovery,discovery,discovery,eFoundation | Lineage OS | LMODroid 
+multilaser / spc,discovery / wuum s,discovery,discovery,eFoundation | Lineage OS | LMODroid 
 google,pixel c,dragon,pixel c,Lineage OS 
 nokia,nokia x6,drg,nokia x6,CrDroid | Lineage OS | LMODroid | Nethunter OS | Pixel Experience | Project Elixir 
 nokia,nokia 6.1 plus,drg_sprout,nokia 6.1 plus,PixelPlusUI 
-motorola / oneplus,d00 / motorola edge 30,dubai,d00 / moto g200 5g / motorola edge 30,Arrow OS | CrDroid | eFoundation | iodéOS | Lineage OS | LMODroid | Paranoid Android | Pixel Experience 
-poco / plaisio / redmi / tech 4u,poco c55 / earth / redmi 12c,earth,22120rn86i / earth / 2212arnc4l / 22127pc95i / 22120rn86g,eFoundation | Lineage OS | LMODroid 
+oneplus / motorola,motorola edge 30 / d00,dubai,moto g200 5g / motorola edge 30 / d00,Arrow OS | CrDroid | eFoundation | iodéOS | Lineage OS | LMODroid | Paranoid Android | Pixel Experience | Project Matrixx 
+poco / plaisio / tech 4u / redmi,redmi 12c / earth / poco c55,earth,earth / 22127pc95i / 2212arnc4l / 22120rn86g / 22120rn86i,eFoundation | Lineage OS | LMODroid 
 xiaomi,xiaomi pad 5 pro,elish,m2105k81ac,Arrow OS 
-poco / mint / redmi,redmi note 13 pro / poco m6 pro / emerald,emerald,emerald_m55crd / emerald_m55cr / 23117ra68g / 2312fpca6g,eFoundation | iodéOS 
-motorola,motorola edge 30 ultra,eqs,motorola edge / motorola edge 30 ultra,DroidX-UI | Lineage OS | Project Elixir 
-xiaomi,mi  8  pro / mi 8 ud,equuleus,mi 8 pro / mi 8 ud / equuleus,eFoundation | Lineage OS | LMODroid | Paranoid Android 
-samsung,galaxy tab2 7.0,espressowifi,gt-p3110 / gt-p3113,Lineage OS 
+poco / mint / redmi,redmi note 13 pro / emerald / poco m6 pro,emerald,23117ra68g / emerald_m55crd / 2312fpca6g / emerald_m55cr,eFoundation | iodéOS 
+motorola,motorola edge 30 ultra,eqs,motorola edge 30 ultra / motorola edge,DroidX-UI | Lineage OS | Project Elixir 
+xiaomi,mi  8  pro / mi 8 ud,equuleus,mi 8 ud / mi 8 pro / equuleus,eFoundation | Lineage OS | LMODroid | Paranoid Android 
+samsung,galaxy tab2 7.0,espressowifi,gt-p3113 / gt-p3110,Lineage OS 
 nextbit,robin,ether,robin,eFoundation | Lineage OS 
 xiaomi,mi smart projector,eva,miprojm05,Nethunter OS 
 motorola,moto g(6) plus,evert,moto g(6) plus,CrDroid | Derpfest | eFoundation | Lineage OS | LMODroid | Pixel Experience 
 redmi,redmi note 9 pro max,excalibur,redmi note 9 pro max,PixelPlusUI | Project Elixir 
-oppo,f1w / f1f / f1fw,f1f,f1w / f1f / f1fw,eFoundation | Lineage OS 
+oppo,f1fw / f1w / f1f,f1f,f1fw / f1w / f1f,eFoundation | Lineage OS 
 emtec,f400,f400,f400,CrDroid | eFoundation | Lineage OS 
-samsung,galaxy f62,f62,sm-e625f,CrDroid | DroidX-UI | eFoundation | Evolution X | Lineage OS | LMODroid | Pixel Project | Project Elixir 
-lge / borqs,g7 fit / lg g7 fit / lg q9 / falcon,falcon,lm-q925s / lm-q925l / lm-q925k / falcon / lm-q850,eFoundation | Lineage OS 
+samsung,galaxy f62,f62,sm-e625f,CrDroid | DroidX-UI | eFoundation | Evolution X | Lineage OS | LMODroid | Pixel Project | Project Elixir | Project Infinity X | Project Matrixx 
+lge / borqs,lg g7 fit / falcon / g7 fit / lg q9,falcon,lm-q925k / lm-q925s / falcon / lm-q850 / lm-q925l,eFoundation | Lineage OS 
 google,pixel fold,felix,pixel fold,CalyxOS | eFoundation | GrapheneOS | Lineage OS | LMODroid 
 oppo,x9077,find7,x9077,Lineage OS 
-poco / google / redmi / hurricane,flame / poco m7 5g / pixel 4 / redmi 14c 5g,flame,flame / 2411drn47i / pixel 4 / 24108pce2i,Bliss ROMs | CalyxOS | Derpfest | eFoundation | GrapheneOS | iodéOS | Lineage OS | LMODroid | PixelBuilds | Pixel Experience 
+poco / google / hurricane / redmi,pixel 4 / flame / poco m7 5g / redmi 14c 5g,flame,pixel 4 / 2411drn47i / flame / 24108pce2i,Bliss ROMs | CalyxOS | Derpfest | eFoundation | GrapheneOS | iodéOS | Lineage OS | LMODroid | PixelBuilds | Pixel Experience | Proton AOSP 
+poco / redmi,poco m4 pro / redmi note 11s,fleur,2201117pg / 2201117sy,Project Pixelage 
 asus,nexus 7 (2013),flo,nexus 7,AOSiP | Evervoly | Lineage OS 
 htc,nexus 9,flounder,nexus 9,Lineage OS | Nethunter OS 
 htc,nexus 9 lte,flounder_lte,nexus 9,Lineage OS 
-explay / radger / redmi,fog / redmi 10 power / redmi 10 / redmi 10c / m1 plus,fog,220333qag / fog / 220333qbi / m1_plus,AfterlifeOs | Ancient OS | BananaDroid | Cherish OS | Komodo OS | OrionOS | Pixel Experience 
-nvidia,shield android tv,foster,shield console / shield android tv,Lineage OS | LMODroid 
+explay / redmi / radger,fog / redmi 10 / m1 plus / redmi 10c / redmi 10 power,fog,220333qbi / fog / m1_plus / 220333qag,AfterlifeOs | Ancient OS | BananaDroid | Cherish OS | Komodo OS | OrionOS | Pixel Experience 
+motorola,moto g34 / moto g45 5g / moto g34 5g,fogos,moto g53 5g / moto g45 5g / moto g34 5gp / moto g34 5g / xt2363-4,Project Infinity X 
+nvidia,shield android tv,foster,shield android tv / shield console,Lineage OS | LMODroid 
 fairphone,fp2,fp2,fp2,eFoundation | Lineage OS 
 fairphone,fairphone3,fp3,fp3,eFoundation | Lineage OS | LMODroid | PixelExtended 
 fairphone,fairphone4,fp4,fp4,CalyxOS | eFoundation | iodéOS | Lineage OS | LMODroid 
 fairphone,fairphone 5 5g,fp5,fp5,eFoundation | iodéOS | Lineage OS | LMODroid 
 asus,nexus player,fugu,nexus player,Lineage OS 
-xiaomi,xiaomi 13,fuxi,2211133c / 2211133g,Paranoid Android 
+xiaomi,xiaomi 13,fuxi,2211133c / 2211133g,Paranoid Android | ProjectEverest 
 10.or,g,g,g,Arrow OS | BananaDroid | Lineage OS 
 lge,g2 mini,g2m,lg-d620,Lineage OS 
-poco / redmi,poco x6 5g / redmi note 13 pro 5g,garnet,2312crad3c / 2312dra50g / 23122pcd1g / 23122pcd1i / 2312dra50c / 2312dra50i,AfterlifeOs | AlphaDroid | Cherish OS | CrDroid | Derpfest | DroidX-UI | GenesisOS | OrionOS | Pixel Project 
-xiaomi,mi 10t lite,gauguin,m2007j17g,Ancient OS | Arrow OS | Dot OS | eFoundation | Lineage OS | LMODroid | Octavi OS | PixelOS | Pixel Experience | Project Elixir 
+poco / redmi,poco x6 5g / redmi note 13 pro 5g,garnet,2312crad3c / 23122pcd1g / 23122pcd1i / 2312dra50c / 2312dra50i / 2312dra50g,AfterlifeOs | AlphaDroid | Cherish OS | CrDroid | Derpfest | DroidX-UI | GenesisOS | OrionOS | Pixel Project | ProjectEverest | Project Infinity X | Project Mist OS | Project Pixelage | Project PixelStar 
+xiaomi,mi 10t lite,gauguin,m2007j17g,Ancient OS | Arrow OS | Dot OS | eFoundation | Lineage OS | LMODroid | Octavi OS | PixelOS | Pixel Experience | Project Elixir | Project Kaleidoscope 
 xiaomi,mi 10i,gauguininpro,m2007j17i,PixelPlusUI 
 redmi,redmi note 9 pro,gauguinpro,m2007j17c,PixelPlusUI 
-lge,lg optimus g,geeb,lg-e973 / lg-e970 / lg-e971,Nitrogen OS 
-lge,lg optimus g,geehrc,lg-e976 / lg-e977 / lg-f180s / lg-e987 / lg-f180k / lg-e975k / lg-e975 / lg-e975t,Nitrogen OS 
-koolmaax / xiaomi,gemini / mi 5,gemini,gemini / mi 5,AOSP Extended | CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
-motorola / ag mobile,ghost / moto x (1st gen),ghost,xt1052 / xt1053 / xt1049 / xt1058 / xt1060 / ghost / xt1050 / xt1055 / xt1056,Lineage OS 
-redmi / xiaomi,redmi note 8,ginkgo,redmi note 8 / ginkgo,AfterlifeOs | AICP | AlphaDroid | Ancient OS | Arrow OS | Bliss ROMs | Carbon ROM | Cesium OS | Cherish OS | Colt OS | ConquerOS | CrDroid | Dot OS | eFoundation | Evolution X | Floko ROM | Fluid OS | Freaky OS | Komodo OS | Legion OS | Lineage OS | MSM Xtended | Nitrogen OS | Octavi OS | OrionOS | Pixel Experience 
-tag heuer / htc,mytouch 4g / connected,glacier,tag heuer / htc glacier / htc panache,Evervoly 
+lge,lg optimus g,geeb,lg-e970 / lg-e973 / lg-e971,Nitrogen OS 
+lge,lg optimus g,geehrc,lg-e975k / lg-e987 / lg-f180k / lg-e975t / lg-e977 / lg-e975 / lg-f180s / lg-e976,Nitrogen OS 
+koolmaax / xiaomi,mi 5 / gemini,gemini,mi 5 / gemini,AOSP Extended | CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
+motorola / ag mobile,moto x (1st gen) / ghost,ghost,xt1055 / xt1056 / xt1053 / xt1049 / xt1058 / ghost / xt1050 / xt1052 / xt1060,Lineage OS 
+redmi / xiaomi,redmi note 8,ginkgo,ginkgo / redmi note 8,AfterlifeOs | AICP | AlphaDroid | Ancient OS | Arrow OS | Bliss ROMs | Carbon ROM | Cesium OS | Cherish OS | Colt OS | ConquerOS | CrDroid | Dot OS | eFoundation | Evolution X | Floko ROM | Fluid OS | Freaky OS | Komodo OS | Legion OS | Lineage OS | MSM Xtended | Nitrogen OS | Octavi OS | OrionOS | Pixel Experience | Project Infinity X | Project Matrixx | Project Radiant | Project Sakura 
+htc / tag heuer,connected / mytouch 4g,glacier,htc glacier / tag heuer / htc panache,Evervoly 
 poco,poco m2 pro,gram,poco m2 pro,PixelPlusUI | Project Elixir 
-motorola,moto z / moto z droid,griffin,xt1650 / xt1650-05,eFoundation | Lineage OS 
+motorola,moto z droid / moto z,griffin,xt1650 / xt1650-05,eFoundation | Lineage OS 
 asus,nexus 7 (2012),grouper,nexus 7,AOSiP | Evervoly 
 xiaomi,mi 9 se,grus,mi 9 se,AlphaDroid | Ancient OS | eFoundation | Lineage OS | LMODroid | Octavi OS | Pixel Experience | Project Elixir 
 gigaset,gs290,gs290,gs290,eFoundation | LMODroid 
 gigaset,gs5,gs5,e940-2796-00,LMODroid 
-samsung,galaxy tab a 8.0,gt58wifi,sm-t350x / sm-t350,Evervoly 
-samsung,galaxy tab a7,gta4l,sm-t505 / sm-t505n / sm-t505c / sm-t507,eFoundation | Lineage OS | LMODroid 
+samsung,galaxy tab a 8.0,gt58wifi,sm-t350 / sm-t350x,Evervoly 
+samsung,galaxy tab a7,gta4l,sm-t505 / sm-t507 / sm-t505c / sm-t505n,eFoundation | Lineage OS | LMODroid 
 samsung,galaxy tab a7,gta4lwifi,sm-t500,eFoundation | Lineage OS | LMODroid 
-samsung,galaxy tab s6 lite,gta4xl,sm-p615c / sm-p615 / sm-p615n / sm-p617,CrDroid | eFoundation | Lineage OS | LMODroid 
+samsung,galaxy tab s6 lite,gta4xl,sm-p617 / sm-p615c / sm-p615n / sm-p615,CrDroid | eFoundation | Lineage OS | LMODroid 
 samsung,galaxy tab s6 lite,gta4xlwifi,sm-p610 / sm-p610x,CrDroid | eFoundation | Lineage OS | LMODroid 
-samsung,galaxy tab a (2016) / galaxy tab a 10.1,gtaxllte,sm-t585 / sm-t585m / sm-t587,Liquid Remix 
-samsung,galaxy tab a (2016) / galaxy tab a 10.1,gtaxlwifi,sm-t580 / sm-t580x,CrDroid | Liquid Remix 
+samsung,galaxy tab a (2016) / galaxy tab a 10.1,gtaxllte,sm-t585 / sm-t587 / sm-t585m,Liquid Remix 
+samsung,galaxy tab a (2016) / galaxy tab a 10.1,gtaxlwifi,sm-t580x / sm-t580,CrDroid | Liquid Remix 
 samsung,galaxy tab e 9.6,gtelwifiue,sm-t560nu,Lineage OS 
 samsung,galaxy tab e 8.0,gtesqltespr,sm-t377p,Lineage OS 
 samsung,"galaxy tab a (8.0"", 2019) / galaxy tab a kids edition",gtowifi,sm-t290,eFoundation | Lineage OS | LMODroid 
@@ -165,129 +167,128 @@ samsung,galaxy tab s2 9.7 / galaxy tab s2,gts210vewifi,sm-t813,eFoundation | Lin
 samsung,galaxy tab s2 9.7 / galaxy tab s2,gts210wifi,sm-t810 / sm-t810x,Lineage OS 
 samsung,galaxy tab s2 / galaxy tab s2 8.0,gts28vewifi,sm-t713,eFoundation | Lineage OS 
 samsung,galaxy tab s4,gts4llte,sm-t835 / sm-t837,Nethunter OS 
-samsung,galaxy tab s5e,gts4lv,sm-t727a / sm-t727v / sm-t727r4 / sm-t725n / sm-t727u / sm-t727 / sm-t725 / sm-t725c,CrDroid | eFoundation | iodéOS | Lineage OS | LMODroid 
+samsung,galaxy tab s5e,gts4lv,sm-t727r4 / sm-t727v / sm-t725c / sm-t727a / sm-t725 / sm-t727u / sm-t727 / sm-t725n,CrDroid | eFoundation | iodéOS | Lineage OS | LMODroid 
 samsung,galaxy tab s5e,gts4lvwifi,sm-t720,Bliss ROMs | CrDroid | eFoundation | Lineage OS | LMODroid 
 samsung,galaxy tab s4,gts4lwifi,sm-t830,Nethunter OS 
-motorola,moto e(7) plus / lenovo xt2081-4,guam,moto e(7) plus / lenovo xt2081-4,eFoundation | Lineage OS | LMODroid 
-lenovo / motorola,moto g(9) / moto g(9) play / lenovo k12 note,guamp,moto g(9) / moto g(9) play / lenovo k12 note,eFoundation | Lineage OS | LMODroid 
+motorola,lenovo xt2081-4 / moto e(7) plus,guam,lenovo xt2081-4 / moto e(7) plus,eFoundation | Lineage OS | LMODroid 
+lenovo / motorola,moto g(9) play / moto g(9) / lenovo k12 note,guamp,moto g(9) play / moto g(9) / lenovo k12 note,eFoundation | Lineage OS | LMODroid 
 gigaset,gx290,gx290,gx290,LMODroid 
 gigaset,gigaset gx4,gx4,e940-2797-00,LMODroid 
 samsung,galaxy note3,ha3g,sm-n900 / sm-n9000q,eFoundation | Lineage OS 
 lge,nexus 5,hammerhead,nexus 5,AOSiP | CrDroid | eFoundation | Evervoly | Lineage OS | Nethunter OS | Nitrogen OS 
-motorola,moto e5 plus,hannah,moto e5 plus / moto e / moto e5 supra,AOSP Extended | eFoundation | Lineage OS 
-motorola,moto g(60) / moto g40 fusion,hanoip,moto g(40) fusion / moto g(60),CrDroid | PixelBuilds 
-motorola,moto g4 play,harpia,moto g play / xt1609,AICP | eFoundation | Lineage OS | Mallu OS 
+motorola,moto e5 plus,hannah,moto e5 supra / moto e / moto e5 plus,AOSP Extended | eFoundation | Lineage OS 
+motorola,moto g(60) / moto g40 fusion,hanoip,moto g(60) / moto g(40) fusion,CrDroid | PixelBuilds | Project PixelStar | Project Sakura 
+motorola,moto g4 play,harpia,xt1609 / moto g play,AICP | eFoundation | Lineage OS | Mallu OS 
 motorola,moto g42,hawao,moto g42 / moto g(100),AfterlifeOs | Ancient OS | CalyxOS | CrDroid | eFoundation | GenesisOS | iodéOS | Lineage OS | LMODroid 
-redmi / xiaomi,redmi k40 pro + / mi 11i / redmi k40 pro,haydn,m2012k11c / m2012k11g,Ancient OS | Bliss ROMs | CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
+redmi / xiaomi,redmi k40 pro / redmi k40 pro + / mi 11i,haydn,m2012k11c / m2012k11g,Ancient OS | Bliss ROMs | CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir | Project Mist OS 
 lenovo,lenovo z5 pro,heart,lenovo l78032,CrDroid | eFoundation | Lineage OS | LMODroid 
-samsung,galaxy s7 edge,hero2lte,sm-g935x / sm-g935f,CrDroid | Lineage OS | Nethunter OS | Nethunter OS | Pixel Experience 
+samsung,galaxy s7 edge,hero2lte,sm-g935f / sm-g935x,CrDroid | Lineage OS | Nethunter OS | Nethunter OS | Pixel Experience 
 samsung,galaxy s7,herolte,sm-g930x / sm-g930f,CrDroid | Lineage OS | Nethunter OS | Nethunter OS | Pixel Experience 
-samsung,galaxy note3 duos / galaxy note3,hlte,sm-n9007 / sm-n9008 / sm-n9008v / sm-n9006 / sm-n9002 / sm-n900u / sm-n9009 / sm-n9005,CrDroid | eFoundation | Lineage OS | MSM Xtended 
+samsung,galaxy note3 / galaxy note3 duos,hlte,sm-n9007 / sm-n9006 / sm-n9002 / sm-n9009 / sm-n9008 / sm-n9008v / sm-n9005 / sm-n900u,CrDroid | eFoundation | Lineage OS | MSM Xtended 
 samsung,galaxy note3,hltetmo,sm-n900t,CrDroid | eFoundation | Lineage OS 
-google,pixel 8 pro,husky,pixel 8 pro,AlphaDroid | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | Project Elixir 
+google,pixel 8 pro,husky,pixel 8 pro,AlphaDroid | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | ProjectEverest | Project Elixir | Project Mist OS 
 xiaomi,mi max,hydrogen,mi max,Lineage OS 
-nyx mobile / mobicell / redmi,ice / mobicel ice / redmi a1,ice,220733sl / 220733sg / 220733si / ice,CrDroid 
-xiaomi,redmi 3,ido,ido / redmi 3,Lineage OS 
+nyx mobile / mobicell / redmi,mobicel ice / ice / redmi a1,ice,220733sg / ice / 220733si / 220733sl,CrDroid 
+xiaomi,redmi 3,ido,redmi 3 / ido,Lineage OS 
 htc,droid incredible,inc,adr6300,Evervoly 
-poco / redmi,redmi k50g / poco f4 gt,ingres,21121210g / 21121210c,AfterlifeOs 
-xiaomi,xiaomi 13 ultra,ishtar,2304fpn6dc / 2304fpn6dg,Paranoid Android 
-samsung,galaxy j4+,j4primelte,sm-j415gn / sm-j415g / sm-j415f / sm-j415fn,Fluid OS 
-samsung,galaxy j5,j5lte,sm-j5007 / sm-j500g / sm-j500m / sm-j500f,eFoundation 
+poco / redmi,redmi k50g / poco f4 gt,ingres,21121210c / 21121210g,AfterlifeOs 
+xiaomi,xiaomi 13 ultra,ishtar,2304fpn6dg / 2304fpn6dc,Paranoid Android 
+samsung,galaxy j4+,j4primelte,sm-j415g / sm-j415fn / sm-j415f / sm-j415gn,Fluid OS 
+samsung,galaxy j5,j5lte,sm-j5007 / sm-j500m / sm-j500g / sm-j500f,eFoundation 
 samsung,galaxy j5,j5ltechn,sm-j5008,eFoundation 
 samsung,galaxy j5,j5nlte,sm-j500fn,eFoundation 
-samsung,galaxy j5 / galaxy j5 pro,j5y17lte,sm-j530g / sm-j530f / sm-j530fm / sm-j530gm,Advanced XPerience Os 
+samsung,galaxy j5 pro / galaxy j5,j5y17lte,sm-j530fm / sm-j530gm / sm-j530g / sm-j530f,Advanced XPerience Os 
 samsung,galaxy j7,j7elte,sm-j700m / sm-j700f,eFoundation | Lineage OS 
-samsung,galaxy j7(2016),j7xelte,sm-j710fq / sm-j710mn / sm-j710f / sm-j710gn,CrDroid 
-samsung,galaxy j7 pro / galaxy j7,j7y17lte,sm-j730gm / sm-j730g / sm-j730fm / sm-j730f,Nethunter OS 
+samsung,galaxy j7(2016),j7xelte,sm-j710gn / sm-j710fq / sm-j710f / sm-j710mn,CrDroid 
+samsung,galaxy j7 / galaxy j7 pro,j7y17lte,sm-j730gm / sm-j730f / sm-j730g / sm-j730fm,Nethunter OS 
 samsung,galaxy s4 active,jactivelte,gt-i9295,eFoundation | Lineage OS 
 lge,g3 s,jag3gds,lg-d724,Lineage OS 
-lge,g3 vigor / g3 beat / g3 s,jagnm,lg-d722j / lg-d725pr / lg-d722ar / lg-d727 / lg-d725 / lg-d722,Lineage OS 
+lge,g3 beat / g3 vigor / g3 s,jagnm,lg-d722ar / lg-d725pr / lg-d727 / lg-d722 / lg-d722j / lg-d725,Lineage OS 
 zte,k88,jasmine,k88,Lineage OS 
 xiaomi,mi a2,jasmine_sprout,mi a2,AICP | AOSP Extended | Arrow OS | Carbon ROM | ConquerOS | CrDroid | Derpfest | Dot OS | eFoundation | Floko ROM | Fluid OS | Legion OS | Lineage OS | Mallu OS | PixelPlusUI | Pixel Experience 
 xiaomi,mi note 3,jason,mi note 3,CrDroid | Dot OS | eFoundation | Lineage OS 
-lenovo,z5s,jd2019,lenovo l78071,Dot OS | PixelPlusUI | Pixel Experience 
-cell_c / htc,evo 4g lte / evo lte 4g / jewel,jewel,evo / jewel,Evervoly 
+lenovo,z5s,jd2019,lenovo l78071,Dot OS | PixelPlusUI | Pixel Experience | Project Sakura 
+htc / cell_c,evo lte 4g / evo 4g lte / jewel,jewel,evo / jewel,Evervoly 
 samsung,galaxy s4,jflteatt,samsung-sgh-i337,eFoundation | Lineage OS 
 samsung,galaxy s4,jfltespr,sph-l720,eFoundation | Lineage OS 
 samsung,galaxy s4,jfltevzw,sch-i545,eFoundation | Evervoly | Lineage OS 
 samsung,galaxy s4,jfvelte,gt-i9515l / gt-i9515,eFoundation | Lineage OS 
-lge,v30+ / v30,joan,lgm-v300s / lg-h933 / lgv35 / lg-h930 / lg-us998 / lgm-v300l / lg-h932 / vs996 / lgm-v300k / lg-h932pr / lg-ls998 / lg-h931 / lg-as998,eFoundation | Lineage OS | LMODroid 
-redmi,redmi note 9 pro,joyeuse,redmi note 9 pro,AfterlifeOs | BananaDroid | ConquerOS | Komodo OS 
-lge,lg g7 thinq,judyln,lm-g710vm / lm-g710n / lg-g710 / lm-g710,eFoundation | Lineage OS | LMODroid 
+lge,v30 / v30+,joan,lgm-v300k / lg-h932 / lg-ls998 / lg-h933 / lg-us998 / lg-h931 / lg-h930 / lgv35 / lg-as998 / lgm-v300l / lgm-v300s / vs996 / lg-h932pr,eFoundation | Lineage OS | LMODroid 
+redmi,redmi note 9 pro,joyeuse,redmi note 9 pro,AfterlifeOs | BananaDroid | ConquerOS | Komodo OS | Project Sakura 
+lge,lg g7 thinq,judyln,lm-g710 / lm-g710n / lg-g710 / lm-g710vm,eFoundation | Lineage OS | LMODroid 
 lge,lg v35 thinq,judyp,lm-v350 / lm-v350n,eFoundation | Lineage OS | LMODroid 
-lge,v40 thinq,judypn,lm-v405 / lm-v409n,eFoundation | Lineage OS | LMODroid 
+lge,v40 thinq,judypn,lm-v409n / lm-v405,eFoundation | Lineage OS | LMODroid 
 motorola,motorola p50,kane,xt1970-5,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
 samsung,galaxy s5 lte-a,kccat6,sm-g901f,eFoundation | Lineage OS 
 xiaomi,redmi note 3,kenzo,redmi note 3,AOSP Extended | Atomic Os | Bliss ROMs | Carbon ROM | Colt OS | eFoundation | Lineage OS | Liquid Remix | Nitrogen OS | ResurrectionRemix 
-motorola,motorola one 5g ace / moto g 5g,kiev,motorola edge / motorola one 5g ace / moto g 5g,CrDroid | eFoundation | Havoc OS | Lineage OS | LMODroid 
-htc,htcevodesign4g,kingdom,ph44100 / htcevodesign4g / htc kingdom / htc evo design c715e / htc acquire / htc hero s,Evervoly | Lineage OS 
+motorola,moto g 5g / motorola one 5g ace,kiev,moto g 5g / motorola edge / motorola one 5g ace,CrDroid | eFoundation | Havoc OS | Lineage OS | LMODroid 
+htc,htcevodesign4g,kingdom,htc evo design c715e / htc hero s / ph44100 / htc acquire / htc kingdom / htcevodesign4g,Evervoly | Lineage OS 
 wileyfox,storm,kipper,wileyfox storm,Lineage OS 
 samsung,galaxy tab s 8.4 / galaxy tabs 8.4,klimtwifi,sm-t700,Lineage OS 
-samsung,galaxy s5 dual sim / galaxy s5,klte,sm-g900m / sm-g900md / sm-g9009w / sm-g900fq / sm-g9008w / sm-g900f / sm-g900fd / sm-g900i,Advanced XPerience Os | CrDroid | eFoundation | Lineage OS | ResurrectionRemix 
+samsung,galaxy s5 dual sim / galaxy s5,klte,sm-g900fq / sm-g900i / sm-g900f / sm-g9009w / sm-g9008w / sm-g900fd / sm-g900md / sm-g900m,Advanced XPerience Os | CrDroid | eFoundation | Lineage OS | ResurrectionRemix 
 samsung,galaxy s5,klteaio,samsung-sm-g900az,eFoundation | Lineage OS 
 samsung,galaxy s5 k sport,kltesprsports,sm-g860p,Lineage OS 
-samsung,galaxy s5 mini,kminilte,sm-g800y / sm-g800m / sm-g800f,Nethunter OS 
-google / smart technologies,smart amg series / pixel 9 pro xl / am60 series / amg1,komodo,smart am60 / amg series / pixel 9 pro xl / am60 series / smart amg1,CalyxOS | CrDroid | GrapheneOS | Lineage OS | Project Elixir 
+samsung,galaxy s5 mini,kminilte,sm-g800m / sm-g800f / sm-g800y,Nethunter OS 
+google / smart technologies,pixel 9 pro xl / amg1 / smart amg series / am60 series,komodo,smart amg1 / amg series / smart am60 / am60 series / pixel 9 pro xl,CalyxOS | CrDroid | GrapheneOS | Lineage OS | Project Elixir | Project Mist OS 
 samsung,galaxy s4,ks01lte,gt-i9506,Lineage OS 
 lenovo,tbd,kunlun2,lenovo l38111,Corvus ROM | Pixel Experience 
 lenovo,p2,kuntao,lenovo p2c72,AOSP Extended | eFoundation | Lineage OS 
-poco / motorola / redmi,poco c75 / redmi 14c / moto g(7) plus,lake,2410fpcc5g / 2409brn2cy / xt1965-6,CrDroid | Derpfest | eFoundation | Evervoly | Lineage OS | LMODroid | Pixel Experience 
-redmi,redmi 9 / redmi 9 prime,lancelot,m2004j19g / m2004j19c / m2004j19i,CrDroid | DroidX-UI | eFoundation | Lineage OS 
+poco / motorola / redmi,redmi 14c / moto g(7) plus / poco c75,lake,2410fpcc5g / xt1965-6 / 2409brn2cy,CrDroid | Derpfest | eFoundation | Evervoly | Lineage OS | LMODroid | Pixel Experience 
+redmi,redmi 9 prime / redmi 9,lancelot,m2004j19c / m2004j19g / m2004j19i,CrDroid | DroidX-UI | eFoundation | Lineage OS | Project Pixelage 
 xiaomi,redmi 3s,land,redmi 3s,AOSP Extended | Atomic Os | Carbon ROM | Cesium OS | eFoundation | Lineage OS | Nitrogen OS | Pixel Experience 
-xiaomi,mi a3,laurel_sprout,mi a3,AfterlifeOs | Bliss ROMs | CrDroid | PixelPlusUI | Pixel Experience 
-mastertech / redmi / daewoo / master-g / indurama / mtek / aiwa / kenwood / voxelectronics / fpd / sharp / philips / pel (pak) / qbell / s vision / ktctv / ktc / kiowa / soneview / challenger / eko / hyundai / rca / jvc / siragon / zte / blaupunkt / mag / graetz / motorola / rangs,veira / mastertech / motorola / daewoo / wybor / nakamichi / master-g / indurama / phimark / vimeel / mtek / aiwa / daiwa / damasco / danilux / qriom / kenwood / redmi  note  7 / mitsuki / inno-hit / ecotvisdb / redmi note 7 / esley / voxelectronics / diggio / fpd / star-track / sharp / philips / reyna / qbell / viotto / kiowa / z717vl / soneview / challenger / global / colorview / eko / ibg / innova / ecotvdvb / ecotvcol / hyundai / asaano / iqworld / jvc / rca / siragon / blaupunkt / svision / mag / graetz / nexus / pel / multismart / rangs,lavender,ecotv / jvc 4k isdb tv / innova google tv 4k / indurama google tv 4k / 4k smart col tv / nakamichi google tv 4k / ecotv c / redmi note 7 / blaupunkt google tv 4k / qbell 4k android tv / vimeel google tv 4k / mastertech google tv / 4k smart tv / ecotv plus i / kenwood isdb 4k tv / ecotv plus d / star-track 4k smart tv / 4k smart tv ph / global google tv 4k / z717vl / diggio google tv 4k / motorola google tv 4k / ecotv d / 4k smart isdb tv / eko 4k android tv / blaupunkt 4k tv / hyundai 4k smart tv / ecotv plus c / kenwood dvb 4k tv / jvc 4k dvb tv / svision 4k android tv,AfterlifeOs | AICP | AOSP Extended | Arrow OS | BeastROMs | Bliss ROMs | Carbon ROM | Colt OS | ConquerOS | CrDroid | Dot OS | eFoundation | Fluid OS | Havoc OS | Komodo OS | Krypton OSP | Legion OS | Lineage OS | MSM Xtended | Octavi OS | OrionOS | PixelExtended | PixelPlusUI | Pixel Experience 
+xiaomi,mi a3,laurel_sprout,mi a3,AfterlifeOs | Bliss ROMs | CrDroid | PixelPlusUI | Pixel Experience | Project Pixelage | Project Radiant 
+aiwa / siragon / daewoo / qbell / mtek / blaupunkt / pel (pak) / redmi / motorola / eko / ktctv / sharp / rangs / jvc / challenger / hyundai / fpd / zte / kiowa / philips / graetz / ktc / kenwood / voxelectronics / master-g / rca / mastertech / indurama / mag / s vision / soneview,aiwa / siragon / svision / mitsuki / vimeel / ecotvcol / soneview / daewoo / qbell / reyna / mtek / blaupunkt / ecotvisdb / pel / redmi  note  7 / qriom / star-track / veira / colorview / innova / wybor / iqworld / ecotvdvb / motorola / eko / sharp / asaano / rangs / esley / multismart / jvc / danilux / challenger / inno-hit / hyundai / z717vl / fpd / kiowa / damasco / philips / redmi note 7 / graetz / kenwood / voxelectronics / master-g / nexus / rca / viotto / mastertech / ibg / daiwa / indurama / mag / phimark / nakamichi / global / diggio,lavender,ecotv / blaupunkt google tv 4k / jvc 4k isdb tv / ecotv d / 4k smart tv ph / vimeel google tv 4k / jvc 4k dvb tv / indurama google tv 4k / mastertech google tv / blaupunkt 4k tv / kenwood dvb 4k tv / 4k smart tv / hyundai 4k smart tv / eko 4k android tv / ecotv plus c / z717vl / star-track 4k smart tv / innova google tv 4k / 4k smart col tv / redmi note 7 / qbell 4k android tv / global google tv 4k / diggio google tv 4k / ecotv plus i / kenwood isdb 4k tv / svision 4k android tv / ecotv c / motorola google tv 4k / nakamichi google tv 4k / ecotv plus d / 4k smart isdb tv,AfterlifeOs | AICP | AOSP Extended | Arrow OS | BeastROMs | Bliss ROMs | Carbon ROM | Colt OS | ConquerOS | CrDroid | Cygnus ROM | Dot OS | eFoundation | Fluid OS | Havoc OS | Komodo OS | Krypton OSP | Legion OS | Lineage OS | MSM Xtended | Octavi OS | OrionOS | PixelExtended | PixelPlusUI | Pixel Experience | Project Infinity X | Project Kaleidoscope | Project Radiant 
 motorola,motorola one fusion+,liber,motorola one fusion+,Dot OS | eFoundation | Lineage OS | LMODroid | PixelBuilds | Pixel Experience 
 xiaomi,mi 4c,libra,mi-4c,eFoundation | Lineage OS 
 redmi,redmi 9t / redmi note 9 4g / redmi 9 power,lime,m2010j19si / m2010j19sc / m2010j19sg,Derpfest | GenesisOS | PixelPlusUI | Pixel Experience 
-xiaomi,xiaomi 11 lite 5g ne / mi 11 le / xiaomi 11 lite ne,lisa,2109119dg / 2107119dc / 2109119di,Ancient OS | Arrow OS | CrDroid | eFoundation | Lineage OS | LMODroid | Paranoid Android | Pixel Experience | Project Awaken | Project Elixir 
-coolpad / xiaomi,mix / 3705a,lithium,lithium / cp3705a / mix,eFoundation | Lineage OS | Pixel Experience 
-poco / redmi,poco f2 pro / k30 pro,lmi,poco f2 pro / lmi / redmi k30 pro,Bliss ROMs | Cherish OS | CrDroid | eFoundation | Legion OS | Lineage OS | LMODroid | Nusantara Project | Paranoid Android | PixelPlusUI | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Elixir 
+xiaomi,xiaomi 11 lite ne / xiaomi 11 lite 5g ne / mi 11 le,lisa,2109119di / 2109119dg / 2107119dc,Ancient OS | Arrow OS | CrDroid | eFoundation | Lineage OS | LMODroid | Paranoid Android | PixelOS | Pixel Experience | Project Awaken | Project Elixir | Project Kaleidoscope | Project PixelStar 
+coolpad / xiaomi,mix / 3705a,lithium,cp3705a / mix / lithium,eFoundation | Lineage OS | Pixel Experience 
+poco / redmi,poco f2 pro / k30 pro,lmi,lmi / poco f2 pro / redmi k30 pro,Bliss ROMs | Cherish OS | CrDroid | eFoundation | Legion OS | Lineage OS | LMODroid | Nusantara Project | Paranoid Android | PixelPlusUI | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Elixir | Project Kaleidoscope 
 samsung,galaxy tab3 7.0,lt02ltespr,sm-t217s,Lineage OS 
 samsung,galaxy note 10.1 2014 edition,lt03lte,sm-p605m / sm-p605,Lineage OS 
-motorola,moto x play / droid maxx 2,lux,xt1021 / xt1564 / xt1563 / xt1565 / xt1562 / moto x play,AICP | eFoundation | Lineage OS | Mallu OS 
-google / hurricane / getnord,lynx / pixel 7a,lynx,lynx / pixel 7a,Advanced XPerience Os | CalyxOS | CrDroid | eFoundation | Evolution X | GrapheneOS | Havoc OS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir 
+motorola,moto x play / droid maxx 2,lux,xt1565 / moto x play / xt1562 / xt1563 / xt1021 / xt1564,AICP | eFoundation | Lineage OS | Mallu OS 
+google / hurricane / getnord,lynx / pixel 7a,lynx,lynx / pixel 7a,Advanced XPerience Os | CalyxOS | CrDroid | eFoundation | Evolution X | GrapheneOS | Havoc OS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir | Project Pixelage 
 meizu,m1852,m1852,m1852,CrDroid | PixelPlusUI 
-samsung,galaxy m20,m20lte,sm-m205g / sm-m205m / sm-m205fn / sm-m205f,Lineage OS 
+samsung,galaxy m20,m20lte,sm-m205f / sm-m205fn / sm-m205g / sm-m205m,Lineage OS 
 lge,lg k10,m216,lg-k420,Lineage OS 
-gionee / mdc store / skyview / lanix / m-horse / win (ve) / hotwav / beafon / freeyond / olla,m5l / m5 / mdc m5,m5,m5l / m5 / mdc m5,Lineage OS | LMODroid 
-samsung,galaxy m52 5g,m52xq,sm-m526br / sm-m526b,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
-cz electronics / htc / meberry / dragontouch / beafon / vasoun,one / one 801e / m7 / m7 sapphire / 9060 / one google play edition,m7,htc one 801s / htc 801e / htc one 801e / m7 / htc_pn071 / htc one,AICP | Lineage OS 
-telpo / nomu / aoro / mafe / marvue / winnovo / olla,m8 / m8_eea / winnovo,m8,m8 / m8 for arm64,AICP | CrDroid | eFoundation | Lineage OS 
+olla / win (ve) / beafon / mdc store / gionee / hotwav / m-horse / lanix / freeyond / skyview,m5l / m5 / mdc m5,m5,m5l / m5 / mdc m5,Lineage OS | LMODroid 
+samsung,galaxy m52 5g,m52xq,sm-m526b / sm-m526br,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
+vasoun / beafon / meberry / htc / cz electronics / dragontouch,one / 9060 / m7 sapphire / m7 / one google play edition / one 801e,m7,htc one 801e / htc one 801s / htc 801e / htc one / m7 / htc_pn071,AICP | Lineage OS 
+olla / aoro / mafe / marvue / nomu / telpo / winnovo,winnovo / m8 / m8_eea,m8,m8 for arm64 / m8,AICP | CrDroid | eFoundation | Lineage OS 
 samsung,galaxy nexus,maguro,galaxy x / galaxy nexus,Lineage OS 
 lge,nexus 4,mako,nexus 4,AOSiP | Carbon ROM | eFoundation | Evervoly | Lineage OS | Nitrogen OS 
 samsung,nexus 10,manta,nexus 10,Evervoly | Lineage OS 
 hp,8 g2,maple,hp 8 g2,Carbon ROM | CrDroid | Nusantara Project 
-poco / redmi,poco f5 / redmi note 12 turbo,marble,23049rad8c / 23049pcd8g / 23049pcd8i,AfterlifeOs | Ancient OS | BananaDroid | Black Iron Project | Cherish OS | CrDroid | Derpfest | DroidX-UI | Evolution X | GenesisOS | Paranoid Android | Pixel Project | Project Awaken | Project Elixir 
+poco / redmi,redmi note 12 turbo / poco f5,marble,23049rad8c / 23049pcd8g / 23049pcd8i,Ancient OS | BananaDroid | Black Iron Project | Cherish OS | CrDroid | Derpfest | DroidX-UI | Evolution X | GenesisOS | Paranoid Android | Pixel Project | ProjectEverest | Project Awaken | Project Elixir | Project Infinity X | Project Matrixx | Project Pixelage | Project PixelStar 
 xiaomi,redmi 4 pro,markw,redmi 4,MSM Xtended | Nethunter OS 
 google,pixel xl,marlin,pixel xl,eFoundation | Lineage OS | LMODroid | Pixel Experience 
-wileyfox,swift 2 / swift2 add-x,marmite,swift 2 x / swift 2 / wileyfox swift 2 plus / swift 2 plus,CrDroid 
+wileyfox,swift 2 / swift2 add-x,marmite,wileyfox swift 2 plus / swift 2 / swift 2 plus / swift 2 x,CrDroid 
 xiaomi,mi 11 pro,mars,m2102k1ac,CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
 yashi,martini,martini,martini,BananaDroid | eFoundation | Lineage OS | LMODroid | Nameless AOSP | Pixel Experience | Project Elixir 
 essential products,ph-1,mata,ph-1,Carbon ROM | eFoundation | Lineage OS | LMODroid 
 xiaomi,xiaomi 12s,mayfly,2206123sc,CrDroid 
 nvidia,shield tv pro,mdarcy,shield android tv,Lineage OS 
-motorola / redmi,moto g turbo edition / redmi 10x 4g / redmi note 9,merlin,m2003j15si / motog3 / motog3-te / m2003j15ss / m2003j15sc,AICP | eFoundation | Lineage OS | Mallu OS | PixelPlusUI 
-motorola,moto z(3),messi,xt1929-15 / moto z3 / moto z (2),eFoundation | Lineage OS | LMODroid 
-lge,g8x thinq / v50s thinq,mh2lm,lm-g850 / 901lg / lm-v510n,Lineage OS | LMODroid 
+motorola / redmi,redmi 10x 4g / moto g turbo edition / redmi note 9,merlin,m2003j15ss / motog3-te / m2003j15sc / motog3 / m2003j15si,AICP | eFoundation | Lineage OS | Mallu OS | PixelPlusUI 
+motorola,moto z(3),messi,moto z3 / moto z (2) / xt1929-15,eFoundation | Lineage OS | LMODroid 
+lge,v50s thinq / g8x thinq,mh2lm,lm-v510n / lm-g850 / 901lg,Lineage OS | LMODroid 
 xiaomi,redmi note 4,mido,redmi note 4x / redmi note 4,AIM ROM | AOSP Extended | Atomic Os | Carbon ROM | Colt OS | ConquerOS | CrDroid | Dot OS | DroidX-UI | eFoundation | Eternity OS | Komodo OS | Lineage OS | Mallu OS | MSM Xtended | Nethunter OS | Nitrogen OS | Octavi OS | PixelExtended | PixelPlusUI | Pixel Experience 
 samsung,galaxy star,mint,gt-s5282,Lineage OS 
-xiaomi,xiaomi civi,mona,2109119bc,Miku UI 
-redmi,redmi k60,mondrian,23013rk75c,Derpfest | Evolution X 
-samsung,galaxy tap pro 8.4 / galaxy tab pro 8.4,mondrianwifi,sm-t320x / sm-t320,Colt OS | Lineage OS 
-xiaomi,mi 10 lite 5g,monet,m2002j9g / xig01 / m2002j9s,eFoundation | iodéOS | Lineage OS | LMODroid | Pixel Experience 
-motorola,moto g (5s),montana,moto g (5s) / xt1799-1,eFoundation | Lineage OS 
-samsung,galaxy grand2,ms013g,sm-g7109 / sm-g7102 / sm-g7108 / sm-g7106,Lineage OS 
-poco / redmi,redmi k40s / poco f4,munch,22021211ri / 22021211rc / 22021211rg,AfterlifeOs | Ancient OS | Arrow OS | BananaDroid | Bootleggers ROM | Cherish OS | CrDroid | eFoundation | GenesisOS | Lineage OS | LMODroid | Paranoid Android | PixelPlusUI | PixelPlusUI | Pixel Experience | Pixel Project | Project Elixir 
-next learning / iqandt / bamtelecoms / oppo,nexttab n3 / n3,n3,n5207 / n5209 / n5206 / n3,Lineage OS 
+redmi,redmi k60,mondrian,23013rk75c,Derpfest | Evolution X | OrionOS | Project Matrixx 
+samsung,galaxy tab pro 8.4 / galaxy tap pro 8.4,mondrianwifi,sm-t320x / sm-t320,Colt OS | Lineage OS 
+xiaomi,mi 10 lite 5g,monet,xig01 / m2002j9g / m2002j9s,eFoundation | iodéOS | Lineage OS | LMODroid | Pixel Experience | Project Matrixx 
+motorola,moto g (5s),montana,xt1799-1 / moto g (5s),eFoundation | Lineage OS 
+samsung,galaxy grand2,ms013g,sm-g7102 / sm-g7106 / sm-g7109 / sm-g7108,Lineage OS 
+poco / redmi,poco f4 / redmi k40s,munch,22021211rc / 22021211rg / 22021211ri,AfterlifeOs | Ancient OS | Arrow OS | BananaDroid | Bootleggers ROM | Cherish OS | CrDroid | eFoundation | GenesisOS | Lineage OS | LMODroid | Paranoid Android | PixelPlusUI | PixelPlusUI | Pixel Experience | Pixel Project | Project Elixir | Project Infinity X | Project PixelStar 
+oppo / next learning / iqandt / bamtelecoms,n3 / nexttab n3,n3,n5206 / n3 / n5209 / n5207,Lineage OS 
 oppo,n5110,n5110,n5110,Lineage OS 
 zte,n8000_usa_cricket / n8000_whte_ckt / n8000_usa_rs,n8000,n8000_usa_cricket / n8000_whte_ckt / n8000_usa_rs,eFoundation 
-xiaomi,xiaomi pad 5,nabu,21051182c / 21051182g,Arrow OS | CrDroid | Derpfest | eFoundation | Project Awaken 
-motorola,motorola one 5g uw / motorola one 5g / moto g 5g plus,nairo,motorola one 5g uw / motorola one 5g / moto g 5g plus,eFoundation | Havoc OS | Lineage OS | LMODroid 
-motorola,moto z (2) force,nash,xt1789-05 / moto z (2),eFoundation | Lineage OS | LMODroid | ResurrectionRemix 
+xiaomi,xiaomi pad 5,nabu,21051182g / 21051182c,Arrow OS | CrDroid | Derpfest | eFoundation | Project Awaken 
+motorola,moto g 5g plus / motorola one 5g / motorola one 5g uw,nairo,moto g 5g plus / motorola one 5g / motorola one 5g uw,eFoundation | Havoc OS | Lineage OS | LMODroid 
+motorola,moto z (2) force,nash,moto z (2) / xt1789-05,eFoundation | Lineage OS | LMODroid | ResurrectionRemix 
 xiaomi,mi 5s plus,natrium,mi 5s plus,eFoundation | Lineage OS | LMODroid | Pixel Experience 
-nokia,nokia 8,nb1,ta-1004 / ta-1052 / ta-1012,Lineage OS | LMODroid | Pixel Experience 
-motorola,moto g(100) / motorola egde s / motorola edge s,nio,moto g(100) / xt2125-4,CrDroid | eFoundation | Evolution X | Lineage OS | LMODroid | Pixel Experience 
-xiaomi,xiaomi 13 pro,nuwa,2210132c / 2210132g,Paranoid Android 
+nokia,nokia 8,nb1,ta-1052 / ta-1012 / ta-1004,Lineage OS | LMODroid | Pixel Experience 
+motorola,motorola egde s / moto g(100) / motorola edge s,nio,xt2125-4 / moto g(100),CrDroid | eFoundation | Evolution X | Lineage OS | LMODroid | Pixel Experience 
+xiaomi,xiaomi 13 pro,nuwa,2210132g / 2210132c,Paranoid Android 
 zte,nx512j,nx512j,nx512j,Lineage OS 
 zte,nx563j,nx563j,nx563j,eFoundation | Lineage OS | LMODroid 
 zte,nx606j,nx606j,nx606j,eFoundation | Lineage OS | LMODroid 
@@ -295,71 +296,72 @@ zte,nx609j,nx609j,nx609j,eFoundation | Lineage OS | LMODroid
 zte,nx619j,nx619j,nx619j,eFoundation | Lineage OS | LMODroid 
 zte,nubia play,nx651j,nx651j,eFoundation | Lineage OS | LMODroid 
 zte,red magic 5g,nx659j,nx659j,eFoundation | Lineage OS | LMODroid 
-motorola / redmi,redmi note 12s / moto g(7) optimo maxx(xt1955dl) / moto g(7) supra / moto g(7) power,ocean,2303era42l / moto g(7) supra / moto g(6) play / moto g(7) power / 2303cra44a / moto g(7) optimo maxx(xt1955dl),AICP | CrDroid | Derpfest | Dot OS | eFoundation | Havoc OS | Komodo OS | Lineage OS | LMODroid | Pixel Experience | ResurrectionRemix 
-tcl / iswag / xiaomi / alt.mive / vertu,signature touch / odin / tcl tab 10s 4g / kids phone / tcl tab 10s / mix 4,odin,at-m130 / signature touch / 9081x / odin / 9080x / 9080g / 2106118c,Lineage OS | Miku UI 
-hp / redmi / xiaomi,redmi 8 / slate 7 extreme,olive,redmi 8 / hp slate7 extreme,CrDroid | Dot OS 
-redmi,redmi 8a dual,olivewood,redmi 8a pro / redmi 8a dual,Dot OS | PixelPlusUI 
-umidigi / admiral overseas corporation,one,one,one,eFoundation 
-oneplus,x / oneplus,oneplus,one e1003,Nethunter OS 
-oneplus,2 / oneplus2,oneplus2,one a2003,AOSP Extended | Carbon ROM | CrDroid | eFoundation | Lineage OS | Liquid Remix | Nethunter OS 
-oneplus,3 / oneplus3,oneplus3,oneplus a3000,BeastROMs | Bliss ROMs | Carbon ROM | Cesium OS | CrDroid | Dot OS | eFoundation | Evervoly | Lineage OS | MSM Xtended | Nethunter OS | PixelPlusUI | Pixel Experience | ResurrectionRemix 
+motorola / redmi,moto g(7) power / moto g(7) optimo maxx(xt1955dl) / redmi note 12s / moto g(7) supra,ocean,2303era42l / moto g(7) supra / moto g(6) play / moto g(7) power / moto g(7) optimo maxx(xt1955dl) / 2303cra44a,AICP | CrDroid | Derpfest | Dot OS | eFoundation | Havoc OS | Komodo OS | Lineage OS | LMODroid | Pixel Experience | ResurrectionRemix 
+iswag / vertu / xiaomi / alt.mive / tcl,signature touch / mix 4 / tcl tab 10s 4g / kids phone / tcl tab 10s / odin,odin,signature touch / 9080x / 9081x / at-m130 / 2106118c / 9080g / odin,Lineage OS | Miku UI 
+hp / redmi / xiaomi,slate 7 extreme / redmi 8,olive,hp slate7 extreme / redmi 8,CrDroid | Dot OS 
+redmi,redmi 8a dual,olivewood,redmi 8a dual / redmi 8a pro,Dot OS | PixelPlusUI 
+admiral overseas corporation / umidigi,one,one,one,eFoundation 
+oneplus,oneplus / x,oneplus,one e1003,Nethunter OS 
+oneplus,oneplus2 / 2,oneplus2,one a2003,AOSP Extended | Carbon ROM | CrDroid | eFoundation | Lineage OS | Liquid Remix | Nethunter OS 
+oneplus,oneplus3 / 3,oneplus3,oneplus a3000,BeastROMs | Bliss ROMs | Carbon ROM | Cesium OS | CrDroid | Dot OS | eFoundation | Evervoly | Lineage OS | MSM Xtended | Nethunter OS | PixelPlusUI | Pixel Experience | Project Sakura | ResurrectionRemix 
 oneplus,oneplus5,oneplus5,oneplus a5000,Nethunter OS | Paranoid Android 
 oneplus,oneplus5t,oneplus5t,oneplus a5010,Paranoid Android 
-oneplus,oneplus 6,oneplus6,oneplus a6000 / oneplus a6003,Nethunter OS 
-oneplus,oneplus 7,oneplus7,gm1900 / gm1901 / gm1903 / gm1905,Nethunter OS | Nethunter OS | Paranoid Android 
-oneplus,oneplus 7 pro,oneplus7pro,gm1913 / gm1917 / gm1911 / gm1910,Paranoid Android 
-oneplus,oneplus 7t,oneplus7t,hd1900 / hd1903 / hd1901 / hd1905,Paranoid Android 
-oneplus,oneplus 7t pro,oneplus7tpro,hd1910 / hd1913 / hd1911,Paranoid Android 
-oneplus,oneplus 8,oneplus8,in2015 / in2013 / in2010 / in2011,Nethunter OS | Paranoid Android 
-oneplus,oneplus 8 pro,oneplus8pro,in2025 / in2023 / in2020 / in2021,Paranoid Android 
-oneplus,oneplus 8t,oneplus8t,kb2000 / kb2001 / kb2003 / kb2005,Paranoid Android 
-oneplus,oneplus 9 5g,oneplus9,le2115 / le2111 / le2110 / le2113,Paranoid Android 
-oneplus,oneplus 9r,oneplus9r,le2101 / le2100,Paranoid Android 
+oneplus,oneplus 6,oneplus6,oneplus a6003 / oneplus a6000,Nethunter OS 
+oneplus,oneplus 7,oneplus7,gm1905 / gm1901 / gm1900 / gm1903,Nethunter OS | Nethunter OS | Paranoid Android 
+oneplus,oneplus 7 pro,oneplus7pro,gm1911 / gm1917 / gm1910 / gm1913,Paranoid Android 
+oneplus,oneplus 7t,oneplus7t,hd1901 / hd1903 / hd1900 / hd1905,Paranoid Android 
+oneplus,oneplus 7t pro,oneplus7tpro,hd1910 / hd1911 / hd1913,Paranoid Android 
+oneplus,oneplus 8,oneplus8,in2013 / in2010 / in2011 / in2015,Nethunter OS | Paranoid Android 
+oneplus,oneplus 8 pro,oneplus8pro,in2025 / in2023 / in2021 / in2020,Paranoid Android 
+oneplus,oneplus 8t,oneplus8t,kb2005 / kb2001 / kb2000 / kb2003,Paranoid Android 
+oneplus,oneplus 9 5g,oneplus9,le2111 / le2113 / le2115 / le2110,Paranoid Android 
+oneplus,oneplus 9r,oneplus9r,le2100 / le2101,Paranoid Android 
 explay / mobicell / stylo,onyx,onyx,onyx,eFoundation | Lineage OS 
-google,pixel 6,oriole,pixel 6,Advanced XPerience Os | AlphaDroid | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evervoly | GrapheneOS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir 
+google,pixel 6,oriole,pixel 6,Advanced XPerience Os | AlphaDroid | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evervoly | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir | Project Mist OS | Proton AOSP 
 pantech,flex,oscar,pantechp8010,eFoundation | Lineage OS | LMODroid | PixelOS 
 motorola,moto e (2nd gen),otus,xt0000 / motoe2,Lineage OS 
 xiaomi,mi max 2,oxygen,mi max 2,CrDroid | MSM Xtended | Pixel Experience 
-google / hurricane,panther / pixel 7,panther,panther / pixel 7,Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | Havoc OS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir 
+google / hurricane,pixel 7 / panther,panther,pixel 7 / panther,Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | Havoc OS | iodéOS | Lineage OS | LMODroid | Paranoid Android | Project Elixir | Project Infinity X 
 motorola,motorola one zoom,parker,motorola one zoom / moto z4,eFoundation | Lineage OS | LMODroid | Pixel Experience 
-lenovo / htc,nexus one / p1,passion,lenovo p1c72 / nexus one,Evervoly 
-motorola,moto x (4),payton,moto x4 / xt1789-05,CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience 
+htc / lenovo,p1 / nexus one,passion,lenovo p1c72 / nexus one,Evervoly 
+motorola,moto x (4),payton,xt1789-05 / moto x4,CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience 
 funai electric,smart tv,peach,funai 4k tv,Lineage OS 
-motorola,moto g with 4g lte (1st gen),peregrine,xt1040 / xt1039 / xt1042 / xt1045,eFoundation | Lineage OS 
-poco / redmi,redmi turbo 3 / poco f6,peridot,24069pc21i / 24069pc21g / 24069ra21c,AfterlifeOs | AlphaDroid | Bliss ROMs | CrDroid | OrionOS | PixelOS 
+motorola,moto g with 4g lte (1st gen),peregrine,xt1039 / xt1042 / xt1040 / xt1045,eFoundation | Lineage OS 
+poco / redmi,poco f6 / redmi turbo 3,peridot,24069ra21c / 24069pc21g / 24069pc21i,AfterlifeOs | AlphaDroid | Bliss ROMs | CrDroid | OrionOS | PixelOS | Project Pixelage | Project PixelStar 
 xiaomi,mix 3,perseus,mi mix 3 / mix 3,CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Paranoid Android 
-poco / redmi,poco x4 pro 5g / redmi note 11 pro+ 5g,peux,2201116pi / 2201116si,Project Elixir 
-samsung / redmi / stylo,phoenix / redmi k30 / sm-g6200,phoenix,phoenix / redmi k30 / sm-g6200,Arrow OS | Bliss ROMs | Carbon ROM | CrDroid | Dot OS | Legion OS | MSM Xtended | Nitrogen OS | Paranoid Android | PixelExtended | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Awaken 
-acer / redmi,iconia tab a501 / iconia tab a500 / picasso / redmi k30 5g / redmi k30i 5g,picasso,a501 / redmi k30 5g / a500 / redmi k30i 5g,AfterlifeOs | Cherish OS | CrDroid | Floko ROM | Legion OS | PixelPlusUI | PixelPlusUI | Pixel Experience 
-hp / redmi / xiaomi,redmi  7a / slate 7 / redmi 7a,pine,pine / hp slate 7 / redmi 7a,ConquerOS | CrDroid | Dot OS | PixelExtended | Pixel Experience 
-imiia / daewoo / hkc elec / jvc / nokia / engel / marcel / master-g / mito / rca / imuz / polytron / hp / green house / walton / mobell / soniq / ok (mediamark),hp bridge / 4k smart tv / smart tv,pioneer,hkc 4k sa smart tv / hp bridge / 4k sa smart tv / daewoo 4k sa smart tv / 4k pa smart tv,CrDroid | eFoundation | iodéOS | Lineage OS | LMODroid 
-xiaomi,xiaomi pad 6,pipa,23043rp34i / 23043rp34g / 23043rp34c,CrDroid | PixelOS 
-nokia,nokia 6 / nokia 6.1,pl2,nokia 6.1 / ta-1054,CrDroid | Lineage OS | LMODroid | Nethunter OS | Pixel Experience | Project Elixir 
-xiaomi,mi 8 lite,platina,mi 8 lite / platina,Colt OS | ConquerOS | CrDroid | eFoundation | Lineage OS | Pixel Experience 
+poco / redmi,redmi note 11 pro+ 5g / poco x4 pro 5g,peux,2201116si / 2201116pi,Project Elixir 
+samsung / stylo / redmi,phoenix / sm-g6200 / redmi k30,phoenix,phoenix / sm-g6200 / redmi k30,Arrow OS | Bliss ROMs | Carbon ROM | CrDroid | Dot OS | Legion OS | MSM Xtended | Nitrogen OS | Paranoid Android | PixelExtended | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Awaken 
+acer / redmi,redmi k30i 5g / iconia tab a501 / picasso / iconia tab a500 / redmi k30 5g,picasso,a500 / redmi k30i 5g / a501 / redmi k30 5g,AfterlifeOs | Cherish OS | CrDroid | Floko ROM | Legion OS | PixelPlusUI | PixelPlusUI | Pixel Experience 
+hp / redmi / xiaomi,redmi 7a / slate 7 / redmi  7a,pine,pine / redmi 7a / hp slate 7,ConquerOS | CrDroid | Dot OS | PixelExtended | Pixel Experience 
+jvc / imuz / engel / nokia / green house / mobell / master-g / rca / hp / walton / daewoo / ok (mediamark) / imiia / marcel / polytron / soniq / hkc elec / mito,4k smart tv / hp bridge / smart tv,pioneer,hkc 4k sa smart tv / 4k sa smart tv / daewoo 4k sa smart tv / hp bridge / 4k pa smart tv,CrDroid | eFoundation | iodéOS | Lineage OS | LMODroid 
+xiaomi,xiaomi pad 6,pipa,23043rp34c / 23043rp34i / 23043rp34g,CrDroid | Project Matrixx 
+nokia,nokia 6 / nokia 6.1,pl2,ta-1054 / nokia 6.1,CrDroid | Lineage OS | LMODroid | Nethunter OS | Pixel Experience | Project Elixir 
+xiaomi,mi 8 lite,platina,platina / mi 8 lite,Colt OS | ConquerOS | CrDroid | eFoundation | Lineage OS | Pixel Experience 
 nokia,nokia 8.1,pnx_sprout,nokia 8.1,CrDroid 
-selvas / xiaomi,mix 2s / braillesense polaris / mi mix 2s,polaris,mix 2s / braillesensepolaris / mi mix 2s,CrDroid | eFoundation | Evolution X | Lineage OS | LMODroid | Nitrogen OS | Paranoid Android | Pixel Experience 
+selvas / xiaomi,braillesense polaris / mix 2s / mi mix 2s,polaris,mix 2s / mi mix 2s / braillesensepolaris,CrDroid | eFoundation | Evolution X | Lineage OS | LMODroid | Nitrogen OS | Paranoid Android | Pixel Experience 
 coolpad,coolpad pol-a0,pollux,pol-a0,Lineage OS 
-nothing,nothing phone (2),pong,ain065 / a065,Black Iron Project | Bliss ROMs | CrDroid | DroidX-UI | Evolution X | GenesisOS | Halogen OS | OrionOS | Project Elixir 
+nothing,nothing phone (2),pong,ain065 / a065,Black Iron Project | Bliss ROMs | CrDroid | DroidX-UI | GenesisOS | Halogen OS | ProjectEverest | Project Elixir | Project Infinity X | Project Matrixx | Project Mist OS | Project Pixelage | Project Sakura 
 motorola,moto g plus (5th gen),potter,moto g (5) plus,AICP | AOSP Extended | Carbon ROM | CrDroid | Dot OS | Evervoly | MSM Xtended | Nethunter OS | PixelPlusUI | Pixel Experience 
 axxa,pro,pro,pro,iodéOS 
-motorola,motorola edge 20 pro / motorola edge s pro,pstar,moto g(100) / xt2153-1 / motorola edge 20 pro,CrDroid | Derpfest | eFoundation | Lineage OS | LMODroid 
+motorola,motorola edge 20 pro / motorola edge s pro,pstar,xt2153-1 / motorola edge 20 pro / moto g(100),CrDroid | Derpfest | eFoundation | Lineage OS | LMODroid 
 xiaomi,xiaomi 12x,psyche,2112123ac,Paranoid Android 
-htc,sensation 4g,pyramid,htc sensation xe with beats audio z715a / htc sensation xe with beats audio / htc-z710a / htc sensation xe with beats audio z715e / htc sensation z710e / htc sensation z710a / htc sensation 4g / htc sensation,Evervoly 
-xiaomi,mi cc 9 / mi 9 lite,pyxis,mi cc 9 / pyxis / mi 9 lite,BananaDroid | Bliss ROMs | CrDroid | eFoundation | Evolution X | Lineage OS | LMODroid | Nethunter OS 
-handsfree / atm (brazil) / oppo,r8106 / r5,r5,r8109 / r8106 / r8107 / r5,eFoundation | Lineage OS 
+htc,sensation 4g,pyramid,htc-z710a / htc sensation xe with beats audio z715a / htc sensation xe with beats audio z715e / htc sensation 4g / htc sensation xe with beats audio / htc sensation / htc sensation z710a / htc sensation z710e,Evervoly 
+xiaomi,mi 9 lite / mi cc 9,pyxis,mi 9 lite / pyxis / mi cc 9,BananaDroid | Bliss ROMs | CrDroid | eFoundation | Evolution X | Lineage OS | LMODroid | Nethunter OS 
+handsfree / oppo / atm (brazil),r8106 / r5,r5,r8107 / r8109 / r8106 / r5,eFoundation | Lineage OS 
 oppo,r7plust / r7 plus,r7plus,r7plust / r7plus,eFoundation | Lineage OS 
 oppo,r7sfg,r7sf,r7sf,eFoundation | Lineage OS 
-samsung,galaxy s20 fe 5g / galaxy s20 fe,r8q,sm-g781b / sm-g7810 / sm-g781w / sm-g781n / sm-g780g / sm-g781u1 / sm-g781v / sm-g781u,CrDroid | Lineage OS | LMODroid | Nethunter OS 
+samsung,galaxy s20 fe / galaxy s20 fe 5g,r8q,sm-g781b / sm-g7810 / sm-g780g / sm-g781u1 / sm-g781w / sm-g781n / sm-g781u / sm-g781v,CrDroid | Lineage OS | LMODroid | Nethunter OS | Project Sakura 
 motorola,motorola edge,racer,motorola edge,eFoundation | Havoc OS | Lineage OS | LMODroid 
-redmi / xiaomi,mi 9t pro / redmi k20 pro,raphael,redmi k20 pro premium edition / mi 9t pro / redmi k20 pro,AfterlifeOs | AICP | AlphaDroid | Ancient OS | Arrow OS | Black Iron Project | Bliss ROMs | Bootleggers ROM | Colt OS | CrDroid | Derpfest | Dot OS | Evolution X | Floko ROM | Fluid OS | Legion OS | MSM Xtended | Nusantara Project | Octavi OS | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Awaken | Project Elixir | ResurrectionRemix 
-google,pixel 6 pro,raven,pixel 6 pro,AlphaDroid | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | GrapheneOS | iodéOS | Lineage OS | LMODroid | Omni Rom | Paranoid Android | Project Elixir 
+redmi / xiaomi,redmi k20 pro / mi 9t pro,raphael,redmi k20 pro / redmi k20 pro premium edition / mi 9t pro,AfterlifeOs | AICP | AlphaDroid | Ancient OS | Arrow OS | Black Iron Project | Bliss ROMs | Bootleggers ROM | Colt OS | CrDroid | Cygnus ROM | Derpfest | Dot OS | Floko ROM | Fluid OS | Legion OS | MSM Xtended | Nusantara Project | Octavi OS | PixelPlusUI | PixelPlusUI | Pixel Experience | Project Awaken | Project Elixir | Project Infinity X | Project Kaleidoscope | Project Mist OS | Project Radiant | ResurrectionRemix 
+google,pixel 6 pro,raven,pixel 6 pro,AlphaDroid | Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | Omni Rom | Paranoid Android | Project Elixir | Project Mist OS | Project Sakura | Proton AOSP 
 google,pixel 5,redfin,pixel 5,CalyxOS | CrDroid | Derpfest | eFoundation | GrapheneOS | iodéOS | Lineage OS | LMODroid | PixelBuilds | Pixel Experience | Project Elixir 
-strong / redmi / condor / ud (eu) / chiq / jetpoint / orion / aiwa / hp / shinon / asher / thomson / wansa / classpro / united tv / arteqled / elsonic / kunft / td systems / ok (mediamark) / nokia / cristor / grunhelm / homez / changhong / itel / bauhn / albadeel / pilot / saba / ergo / polaroid / singer / anexa / dora / benq / biolux / nikkei / liberton / hyundai / poco / teklio / blaupunkt / syinix / kolin / realme / bec-kw / brando / rindo / kogan / motorola / techlife / bpl / premier,g5n / g7n / redmi note 12 pro speed / poco x5 pro 5g / h7 / rf9220 / smart tv / 7 g2 / android tv / a11 / esd / ghs55 / bs5002,redwood,ai pont co / ai pont na / ai pont / anexa android tv / ai pont de / 22101320g / ergogs / 22101320c / ai pont sa / td systems android tv / arteqled android tv / ai pont it / hp 7 g2,BaikalOS | BananaDroid | Cherish OS | CrDroid | DroidX-UI | Evolution X | Pixel Experience | Project Elixir 
-xiaomi,mi 11 lite 5g,renoir,m2101k9c / m2101k9g,Derpfest | Dot OS | eFoundation | Lineage OS | LMODroid | Pixel Experience 
-motorola,moto e5 plus / moto e(5) plus,rhannah,moto e5 plus / moto e,CrDroid | eFoundation | Lineage OS 
+shinon / aiwa / homez / arteqled / elsonic / syinix / orion / biolux / td systems / rindo / blaupunkt / benq / kolin / ud (eu) / pilot / saba / strong / brando / nokia / poco / premier / jetpoint / condor / redmi / ok (mediamark) / motorola / polaroid / dora / united tv / asher / techlife / thomson / hyundai / kunft / nikkei / hp / teklio / kogan / chiq / cristor / anexa / classpro / liberton / itel / changhong / bauhn / ergo / albadeel / bpl / grunhelm / wansa / realme / bec-kw / singer,poco x5 pro 5g / rf9220 / android tv / smart tv / h7 / a11 / g7n / 7 g2 / g5n / redmi note 12 pro speed / ghs55 / bs5002 / esd,redwood,hp 7 g2 / arteqled android tv / anexa android tv / 22101320g / ai pont sa / td systems android tv / ai pont co / ergogs / ai pont de / 22101320c / ai pont it / ai pont / ai pont na,BaikalOS | BananaDroid | Cherish OS | CrDroid | DroidX-UI | Pixel Experience | ProjectEverest | Project Elixir | Project Infinity X | Project Matrixx | Project PixelStar | Project Sakura 
+xiaomi,mi 11 lite 5g,renoir,m2101k9g / m2101k9c,Derpfest | Dot OS | eFoundation | Lineage OS | LMODroid | Pixel Experience 
+motorola,moto e5 plus / moto e(5) plus,rhannah,moto e / moto e5 plus,CrDroid | eFoundation | Lineage OS 
 motorola,moto g52,rhode,moto g(50) / moto g52,AfterlifeOs | Ancient OS | CalyxOS | CrDroid | eFoundation | GenesisOS | iodéOS | Lineage OS | LMODroid 
-xiaomi,redmi 5a,riva,redmi 5a,AOSP Extended | ConquerOS | MSM Xtended | PixelPlusUI | Pixel Experience 
-motorola / redmi / xiaomi,moto g(7) / redmi 12 5g / mitv,river,moto g(7) / mitv-mztu0 / moto g(6) / 23076rn8dy / 23076ra4br / a401xm,AICP | AOSP Extended | Colt OS | CrDroid | Derpfest | eFoundation | Evervoly | Havoc OS | Legion OS | Lineage OS | LMODroid | Pixel Experience | ResurrectionRemix 
+motorola,moto g82 5g,rhodep,moto g82 5g / moto g71 5g / xt2169-2 / xt2225-2,Project Infinity X | Project Matrixx 
+xiaomi,redmi 5a,riva,redmi 5a,AOSP Extended | ConquerOS | Cygnus ROM | MSM Xtended | PixelPlusUI | Pixel Experience 
+motorola / redmi / xiaomi,mitv / moto g(7) / redmi 12 5g,river,a401xm / moto g(7) / mitv-mztu0 / 23076rn8dy / 23076ra4br / moto g(6),AICP | AOSP Extended | Colt OS | CrDroid | Derpfest | eFoundation | Evervoly | Havoc OS | Legion OS | Lineage OS | LMODroid | Pixel Experience | ResurrectionRemix 
 realme,realme 2 pro,rmx1801,rmx1801,Bliss ROMs | eFoundation | Lineage OS | PixelPlusUI 
 oppo,realme 2,rmx1805,rmx1805,PixelPlusUI 
 oppo,realme c1,rmx1811,rmx1811,PixelPlusUI 
@@ -368,115 +370,116 @@ oppo,realme u1,rmx1831,rmx1831,PixelPlusUI
 realme,realme 3pro,rmx1851,rmx1851,BananaDroid | Dot OS | Eternity OS | Lineage OS | Octavi OS | PixelPlusUI | Pixel Experience 
 oppo,realme 5,rmx1911,rmx1911,Komodo OS | Nethunter OS 
 realme,realme xt,rmx1921,rmx1921,AfterlifeOs | Bliss ROMs | CrDroid | Derpfest | Dot OS | Eternity OS | PixelPlusUI 
-oppo,realme c2,rmx1941,rmx1941,CrDroid | Komodo OS | PixelPlusUI 
+oppo,realme c2,rmx1941,rmx1941,CrDroid | Komodo OS | PixelPlusUI | Project Sakura 
 realme,realme 5pro,rmx1971,rmx1971,AfterlifeOs | Bliss ROMs | CrDroid | Derpfest | Dot OS | Freaky OS | Nethunter OS | Octavi OS | PixelExtended | PixelPlusUI | Pixel Experience 
-realme,realme c3 / rmx2020,rmx2020,rmx2020,Arrow OS | CrDroid | DroidX-UI | Komodo OS | Komodo OS | PixelOS | PixelPlusUI | PixelPlusUI | Project Elixir 
-realme,realme 6i / realme 5i,rmx2030,rmx2030 / rmx2190,Komodo OS 
+realme,realme c3 / rmx2020,rmx2020,rmx2020,Arrow OS | CrDroid | DroidX-UI | Komodo OS | Komodo OS | PixelOS | PixelPlusUI | PixelPlusUI | Project Elixir | Project Matrixx 
+realme,realme 5i / realme 6i,rmx2030,rmx2030 / rmx2190,Komodo OS 
 realme,realme c11,rmx2185,rmx2185,Nethunter OS | PixelPlusUI | PixelPlusUI 
-realme,realme narzo 20 / realme 7i,rmx2193,rmx2193,PixelPlusUI | PixelPlusUI 
-poco / redmi,redmi 11 prime / poco m5,rock,22071219ci / 22071219ai,OrionOS 
-acer / zte / xiaomi,gt-810 / redmi 4a / axon watch,rolex,gt-810 / redmi 4a / zte w1010 / axon watch,AOSP Extended | Dot OS | Fluid OS | MSM Xtended | PixelPlusUI 
-poco / redmi / xiaomi,redmi note 10s / poco m5s,rosemary,2207117bpg / m2101k7bny / m2101k7bl,AfterlifeOs | CrDroid | eFoundation | Halogen OS | Lineage OS | LMODroid | Pixel Experience 
-xiaomi,redmi 5,rosy,redmi 5,AfterlifeOs | AOSP Extended | BananaDroid | ConquerOS | CrDroid | Dot OS | Komodo OS | PixelPlusUI | Pixel Experience 
+realme,realme 7i / realme narzo 20,rmx2193,rmx2193,PixelPlusUI | PixelPlusUI 
+poco / redmi,poco m5 / redmi 11 prime,rock,22071219ci / 22071219ai,OrionOS 
+acer / zte / xiaomi,axon watch / gt-810 / redmi 4a,rolex,axon watch / zte w1010 / gt-810 / redmi 4a,AOSP Extended | Cygnus ROM | Dot OS | Fluid OS | MSM Xtended | PixelPlusUI 
+poco / redmi / xiaomi,poco m5s / redmi note 10s,rosemary,m2101k7bny / 2207117bpg / m2101k7bl,AfterlifeOs | CrDroid | eFoundation | Halogen OS | Lineage OS | LMODroid | Pixel Experience 
+xiaomi,redmi 5,rosy,redmi 5,AfterlifeOs | AOSP Extended | BananaDroid | ConquerOS | CrDroid | Dot OS | Komodo OS | PixelPlusUI | Pixel Experience | Project Sakura 
 nvidia,shield,roth,shield,Lineage OS 
-motorola,moto x40 / motorola edge 40 pro / motorola edge plus 2023,rtwo,motorola edge 40 pro / motorola edge plus 2023 / motorola edge plus (2022) / motorola edge 30 pro / xt2301-5,Derpfest | eFoundation | iodéOS | Lineage OS | LMODroid 
-mobicell / redmi / htc,ruby / redmi note 12 pro / amaze_4g / redmi note 12 pro 5g,ruby,htc ruby / 22101316g / 22101316i / 22101316c / htc amaze 4g / ruby / htc_amaze_4g,CrDroid | Evervoly 
-lexia mobile / bluboo / imo(in my opinion) / plaisio / xstar / cellecor / smooth / lenovo / myfon,s2 / imo s2 / turbo-x s2,s2,s2 / imo s2,AOSP Extended | Cesium OS | eFoundation | Freaky OS | Lineage OS 
+motorola,motorola edge 40 pro / motorola edge plus 2023 / moto x40,rtwo,motorola edge plus (2022) / motorola edge 40 pro / motorola edge plus 2023 / xt2301-5 / motorola edge 30 pro,Derpfest | eFoundation | iodéOS | Lineage OS | LMODroid | Project Mist OS 
+htc / mobicell / redmi,amaze_4g / ruby / redmi note 12 pro 5g / redmi note 12 pro,ruby,22101316g / htc amaze 4g / 22101316c / htc ruby / htc_amaze_4g / ruby / 22101316i,CrDroid | Evervoly 
+imo(in my opinion) / plaisio / myfon / cellecor / lexia mobile / lenovo / xstar / bluboo / smooth,imo s2 / turbo-x s2 / s2,s2,imo s2 / s2,AOSP Extended | Cesium OS | eFoundation | Freaky OS | Lineage OS | Project Sakura 
 samsung,galaxy s3 neo,s3ve3gds,gt-i9300i,eFoundation | Lineage OS 
-samsung,galaxy s5 neo,s5neolte,sm-g903m / sm-g903f,eFoundation | Lineage OS 
+samsung,galaxy s5 neo,s5neolte,sm-g903f / sm-g903m,eFoundation | Lineage OS 
 google,chromecast google tv,sabrina,chromecast,Lineage OS | LMODroid 
-xiaomi,mi6,sagit,mi 6,AOSP Extended | CrDroid | eFoundation | Komodo OS | Lineage OS | LMODroid 
+xiaomi,mi6,sagit,mi 6,AOSP Extended | CrDroid | eFoundation | Komodo OS | Lineage OS | LMODroid | Miku UI 
 google,pixel,sailfish,pixel,eFoundation | Lineage OS | LMODroid | Pixel Experience 
-honda / xiaomi,a-da / redmi 6pro,sakura,redmi 6 pro / my18ada,BananaDroid | Cesium OS | CrDroid | Dot OS | DroidX-UI | Legion OS | Nethunter OS | Octavi OS | PixelPlusUI | Pixel Experience | ResurrectionRemix 
+honda / xiaomi,a-da / redmi 6pro,sakura,redmi 6 pro / my18ada,BananaDroid | Cesium OS | CrDroid | Dot OS | DroidX-UI | Legion OS | Nethunter OS | Octavi OS | PixelPlusUI | Pixel Experience | Project PixelStar | Project Sakura | ResurrectionRemix 
 motorola,moto g (5s) plus,sanders,moto g (5s) plus,AICP | Colt OS | CrDroid | Dot OS | Legion OS | MSM Xtended | PixelPlusUI | Pixel Experience | ResurrectionRemix 
-xiaomi,redmi 4x,santoni,santoni / redmi 4x,AICP | AOSP Extended | Bliss ROMs | Colt OS | ConquerOS | CrDroid | eFoundation | Freaky OS | Komodo OS | Lineage OS | MSM Xtended | Nitrogen OS | Octavi OS | Pixel Experience 
-sico / redmi / zte / htc,sapphire 3g / sico sapphire / mytouch 3g / redmi note 13,sapphire,t-mobile mytouch 3g / sapphire / 23129ra5fl / 23129raa4g / htc magic / n818s,AfterlifeOs | CrDroid 
+xiaomi,redmi 4x,santoni,redmi 4x / santoni,AICP | AOSP Extended | Bliss ROMs | Colt OS | ConquerOS | CrDroid | Cygnus ROM | eFoundation | Freaky OS | Komodo OS | Lineage OS | MSM Xtended | Nitrogen OS | Octavi OS | Pixel Experience 
+zte / htc / redmi / sico,sico sapphire / redmi note 13 / mytouch 3g / sapphire 3g,sapphire,23129raa4g / t-mobile mytouch 3g / 23129ra5fl / htc magic / sapphire / n818s,AfterlifeOs | CrDroid 
 google,pixel 3a,sargo,pixel 3a,AICP | Bliss ROMs | CalyxOS | Dot OS | eFoundation | Evolution X | Lineage OS | LMODroid | PixelBuilds | Pixel Experience 
-garmin / xiaomi / nyx mobile / anydata,nuvi 3595 / nuvi 3592 / garmin nuvi3590 / nuvi 3590 / scorpio / mi note2 / garmin nuvi3595,scorpio,nuvi 3595 / nuvi 3592 / scorpio / nuvi 3590 / mi note 2,eFoundation | Lineage OS | Pixel Experience 
-google / redmi / radger,redmi note 11 4g / redmi 10 prime / pixel watch 3 / redmi 10 2022,selene,pixel watch 3 / 21061119ag / 21121119sc / 21121119vl / 21121119sg / 21061119bi / 21061119al / 22011119ti,Komodo OS 
+nyx mobile / anydata / garmin / xiaomi,nuvi 3592 / scorpio / garmin nuvi3590 / garmin nuvi3595 / nuvi 3590 / mi note2 / nuvi 3595,scorpio,nuvi 3592 / scorpio / mi note 2 / nuvi 3590 / nuvi 3595,eFoundation | Lineage OS | Pixel Experience 
+google / redmi / radger,redmi 10 2022 / pixel watch 3 / redmi note 11 4g / redmi 10 prime,selene,pixel watch 3 / 21061119al / 21121119sc / 21061119bi / 21121119sg / 21121119vl / 21061119ag / 22011119ti,Komodo OS 
 motorola,nexus 6,shamu,nexus 6,Carbon ROM | Colt OS | CrDroid | eFoundation | Evervoly | Lineage OS | Nethunter OS | Nitrogen OS 
-stream / blackshark,shark / 黑鲨游戏手机,shark,shark / skr-h0 / skr-a0,eFoundation | Lineage OS | LMODroid 
-google,pixel 8,shiba,pixel 8,Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | Project Elixir 
+stream / blackshark,黑鲨游戏手机 / shark,shark,skr-h0 / skr-a0 / shark,eFoundation | Lineage OS | LMODroid 
+google,pixel 8,shiba,pixel 8,Bliss ROMs | CalyxOS | CrDroid | Derpfest | eFoundation | Evolution X | GrapheneOS | iodéOS | Lineage OS | LMODroid | ProjectEverest | Project Elixir | Project Mist OS 
 nvidia,shield tablet,shieldtablet,shield tablet,Lineage OS 
 htc,evo 3d,shooter,pg86100 / htcevov4g,Evervoly 
-nvidia / zte,z850 / shield tv,sif,z850 / shield android tv,Lineage OS | LMODroid 
-xiaomi,mi 8 se,sirius,sirius / mi 8 se,Carbon ROM | CrDroid | eFoundation | Lineage OS | Pixel Experience 
-konrow / navon / krono / poco,sky / poco m6 pro 5g,sky,23076pc4bi / sky,Bliss ROMs | Cherish OS | CrDroid | Derpfest | DroidX-UI | OrionOS | Paranoid Android | PixelOS | Pixel Project 
+nvidia / zte,z850 / shield tv,sif,shield android tv / z850,Lineage OS | LMODroid 
+xiaomi,mi 8 se,sirius,sirius / mi 8 se,Carbon ROM | CrDroid | eFoundation | Lineage OS | Pixel Experience | Project Kaleidoscope 
+poco / navon / konrow / krono,sky / poco m6 pro 5g,sky,sky / 23076pc4bi,Bliss ROMs | Cherish OS | CrDroid | Derpfest | DroidX-UI | OrionOS | Paranoid Android | PixelOS | Pixel Project | Project Mist OS | Project PixelStar | Project Sakura 
 redmi,redmi k60 pro,socrates,22127rk46c,eFoundation | Lineage OS | LMODroid 
 polaroid,soho,soho,soho,Evervoly 
-nothing,nothing phone (1),spacewar,a063,AfterlifeOs | AlphaDroid | Arrow OS | Bliss ROMs | Cherish OS | CrDroid | Derpfest | Lineage OS | LMODroid | Nethunter OS | PixelPlusUI | Pixel Experience | Project Elixir 
+nothing,nothing phone (1),spacewar,a063,AfterlifeOs | AlphaDroid | Arrow OS | Bliss ROMs | Cherish OS | CrDroid | Derpfest | Lineage OS | LMODroid | Nethunter OS | PixelPlusUI | Pixel Experience | Project Elixir | Project Matrixx | Project Sakura 
 htc,evo shift 4g,speedy,pg06100,Evervoly 
-redmi,redmi note 11,spes,2201117tg / 2201117ti / 2201117tl,AfterlifeOs | Ancient OS | BananaDroid | CrDroid | Dot OS | DroidX-UI | Paranoid Android | Pixel Experience 
+redmi,redmi note 11,spes,2201117tl / 2201117tg / 2201117ti,AfterlifeOs | Ancient OS | BananaDroid | CrDroid | Dot OS | DroidX-UI | Paranoid Android | Pixel Experience | Project Matrixx | Project PixelStar 
 samsung,galaxy s9+,star2lte,sm-g965f,Arrow OS | Bliss ROMs | Bootleggers ROM | Carbon ROM | CrDroid | iodéOS | Lineage OS | LMODroid | Nethunter OS | Pixel Experience 
 samsung,galaxy s9+,star2qltechn,sm-g9650,Colt OS | Dot OS 
 samsung,galaxy s9,starlte,sm-g960f,Arrow OS | Bliss ROMs | Bootleggers ROM | Carbon ROM | CrDroid | iodéOS | Lineage OS | LMODroid | Nethunter OS | Pixel Experience 
 samsung,galaxy s9,starqltechn,sm-g9600,Colt OS | Dot OS 
-poco,poco m5,stone,22071219cg,AlphaDroid | Ancient OS | BananaDroid | Black Iron Project | Cherish OS | CrDroid | Derpfest | DroidX-UI | Project Elixir 
+poco,poco m5,stone,22071219cg,AlphaDroid | Ancient OS | BananaDroid | Black Iron Project | Cherish OS | CrDroid | Derpfest | DroidX-UI | Project Elixir | Project Sakura 
 google,pixel 4a,sunfish,pixel 4a,Bliss ROMs | CalyxOS | eFoundation | GrapheneOS | Lineage OS | LMODroid | Nethunter OS | PixelBuilds | Pixel Experience | Project Elixir 
-redmi / zte,z818l / redmi note 10,sunny,m2101k7ai / z818l / m2101k7ag,AlphaDroid | OrionOS | Paranoid Android | PixelOS 
+zte / redmi,redmi note 10 / z818l,sunny,m2101k7ai / m2101k7ag / z818l,AlphaDroid | OrionOS | Paranoid Android | PixelOS | ProjectEverest 
 htc,evo 4g,supersonic,pc36100,Evervoly 
-poco,poco x3 nfc,surya,m2007j20cg,AfterlifeOs | AlphaDroid | Ancient OS | Arrow OS | BananaDroid | Bliss ROMs | CrDroid | Derpfest | Dot OS | eFoundation | Havoc OS | Komodo OS | Legion OS | Lineage OS | LMODroid | Nethunter OS | Nitrogen OS | Octavi OS | OrionOS | Paranoid Android | PixelPlusUI | Pixel Experience | Project Elixir 
+poco,poco x3 nfc,surya,m2007j20cg,AfterlifeOs | AlphaDroid | Ancient OS | Arrow OS | BananaDroid | Bliss ROMs | CrDroid | Derpfest | Dot OS | eFoundation | Havoc OS | Komodo OS | Legion OS | Lineage OS | LMODroid | Nethunter OS | Nitrogen OS | Octavi OS | OrionOS | Paranoid Android | PixelPlusUI | Pixel Experience | Project Elixir | Project Matrixx | Project Mist OS | Project Pixelage | Project Sakura 
 sony,xperia x,suzu,f5121,Lineage OS 
-redmi / zte,redmi note 12 pro / z839 / redmi note 10 pro / z839v,sweet,z839 / z839v / m2101k6g / 2209116ag,AfterlifeOs | AlphaDroid | Ancient OS | Arrow OS | BananaDroid | Black Iron Project | Bliss ROMs | Carbon ROM | Cherish OS | ConquerOS | CrDroid | Dot OS | DroidX-UI | eFoundation | Eternity OS | GenesisOS | Komodo OS | Lineage OS | LMODroid | Octavi OS | Omni Rom | OrionOS | PixelExtended | PixelOS | Pixel Experience | Project Awaken | Project Elixir 
+zte / redmi,z839 / redmi note 10 pro / z839v / redmi note 12 pro,sweet,z839 / m2101k6g / 2209116ag / z839v,AfterlifeOs | AlphaDroid | Ancient OS | Arrow OS | BananaDroid | Black Iron Project | Bliss ROMs | Carbon ROM | Cherish OS | ConquerOS | CrDroid | Dot OS | DroidX-UI | eFoundation | Eternity OS | GenesisOS | Komodo OS | Lineage OS | LMODroid | Octavi OS | Omni Rom | OrionOS | PixelExtended | PixelOS | Pixel Experience | ProjectEverest | Project Awaken | Project Elixir | Project Infinity X | Project Mist OS | Project Pixelage | Project PixelStar | Project Radiant | Project Sakura | Project Zephyrus 
 redmi,redmi note 10 pro / redmi note 10 pro max,sweetin,m2101k6p / m2101k6i,Project Elixir 
 samsung,galaxy note2,t0lte,gt-n7105 / gt-n7105t,eFoundation | Lineage OS 
 ikumobile,t6,t6,t6,Lineage OS 
-google,pixel 2 xl,taimen,pixel 2 xl,AfterlifeOs | Arrow OS | BananaDroid | Bliss ROMs | Carbon ROM | CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Nitrogen OS | Pixel Experience | Project Elixir 
-google,pixel tablet,tangorpro,pixel tablet,CalyxOS | eFoundation | GrapheneOS | Lineage OS | LMODroid 
+google,pixel 2 xl,taimen,pixel 2 xl,AfterlifeOs | Arrow OS | BananaDroid | Bliss ROMs | Carbon ROM | CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Nitrogen OS | Pixel Experience | Project Elixir | Project Kaleidoscope 
+google,pixel tablet,tangorpro,pixel tablet,CalyxOS | eFoundation | GrapheneOS | Lineage OS | LMODroid | Project Matrixx 
 xiaomi,xiaomi 12 lite,taoyao,2203129g,Cherish OS 
 xiaomi,mi 2a,taurus,mi 2a,Mokee ROM 
 bq,aquaris u plus,tenshi,aquaris u plus,Lineage OS 
 cmf by nothing,cmf by nothing phone 1,tetris,a015,eFoundation 
 motorola,moto g with 4g lte (2nd gen),thea,xt1072,Lineage OS 
-xiaomi,mi 10s,thyme,m2102j2sc / thyme,Arrow OS | CrDroid | Lineage OS | LMODroid | Pixel Experience 
+xiaomi,mi 10s,thyme,thyme / m2102j2sc,Arrow OS | CrDroid | Lineage OS | LMODroid | Pixel Experience | Project Kaleidoscope 
 meitu / xiaomi,tiffany / mi 5x / t9,tiffany,mp1718 / mi 5x,CrDroid 
-unihertz / mobicell / cell_c / stylo / vertu,titan / signature touch,titan,titan / signature touch / signature touch l,eFoundation | Lineage OS 
+vertu / unihertz / mobicell / stylo / cell_c,titan / signature touch,titan,titan / signature touch / signature touch l,eFoundation | Lineage OS 
 xiaomi,mi note 10 lite,toco,toco / mi note 10 lite,CrDroid | Derpfest | Dot OS | Havoc OS | PixelOS | PixelPlusUI | Project Elixir 
-google,pixel 9,tokay,pixel 9,CalyxOS | CrDroid | Evolution X | GrapheneOS | Lineage OS | Project Elixir 
-sico / redmi / philips,w8510 / redmi note 12 / sico topaz,topaz,philips w8510 / 23021raa2y / sico topaz,CrDroid | DroidX-UI 
+google,pixel 9,tokay,pixel 9,CalyxOS | CrDroid | GrapheneOS | Lineage OS | Project Elixir | Project Mist OS 
+philips / redmi / sico,redmi note 12 / sico topaz / w8510,topaz,23021raa2y / sico topaz / philips w8510,AfterlifeOs | CrDroid | DroidX-UI | ProjectEverest 
 samsung,galaxy nexus,toro,galaxy nexus,Evervoly | Lineage OS 
 samsung,galaxy nexus,toroplus,galaxy nexus,Lineage OS 
 motorola,motorola one action,troika,motorola one action,eFoundation | Lineage OS | LMODroid | Pixel Experience 
-xiaomi,mi cc9 pro / mi note 10,tucana,mi cc9 pro / mi note 10,Arrow OS | CrDroid | Pixel Experience 
-zte / xiaomi,redmi  note  6  pro / b2017g,tulip,zte b2017g / redmi note 6 pro,AOSP Extended | Arrow OS | Cesium OS | ConquerOS | CrDroid | Dot OS | Komodo OS | Lineage OS | MSM Xtended | Nethunter OS | Nitrogen OS | PixelPlusUI | Pixel Experience 
-motorola,moto s30 / motorola edge 30 fusion,tundra,motorola edge 30 fusion / xt2243-2 / moto g200 5g,Project Awaken 
-xiaomi,mi 10,umi,umi / mi 10,CrDroid | eFoundation | Lineage OS | LMODroid | Octavi OS | Paranoid Android 
+xiaomi,mi note 10 / mi cc9 pro,tucana,mi note 10 / mi cc9 pro,Arrow OS | CrDroid | Pixel Experience 
+zte / xiaomi,b2017g / redmi  note  6  pro,tulip,zte b2017g / redmi note 6 pro,AOSP Extended | Arrow OS | Cesium OS | ConquerOS | CrDroid | Dot OS | Komodo OS | Lineage OS | MSM Xtended | Nethunter OS | Nitrogen OS | PixelPlusUI | Pixel Experience 
+motorola,motorola edge 30 fusion / moto s30,tundra,moto g200 5g / motorola edge 30 fusion / xt2243-2,Project Awaken | Project Infinity X 
+xiaomi,mi 10,umi,mi 10 / umi,CrDroid | eFoundation | Lineage OS | LMODroid | Octavi OS | Paranoid Android 
 motorola,droid razr,umts_spyder,xt910,Lineage OS 
 xiaomi,mi  8  explorer  edition,ursa,mi 8 explorer edition,eFoundation | Lineage OS | LMODroid | Paranoid Android 
-samsung,galaxy note pro 12.2 / galaxy note pro,v1awifi,sm-p900,Lineage OS 
+samsung,galaxy note pro / galaxy note pro 12.2,v1awifi,sm-p900,Lineage OS 
 timor telecom,v500,v500,v500,Lineage OS 
-acer / xiaomi,a100 / mi 10 lite zoom / iconia tab a100 (vangogh) / a101,vangogh,a100 / m2002j9e / a101,Pixel Experience 
-poco,poco x3 pro,vayu,m2102j20sg,AICP | Arrow OS | BananaDroid | Bliss ROMs | Bootleggers ROM | Cherish OS | ConquerOS | CrDroid | Derpfest | Dot OS | eFoundation | Eternity OS | Evolution X | Fluid OS | Havoc OS | Komodo OS | Legion OS | Lineage OS | LMODroid | Nethunter OS | Octavi OS | OrionOS | Paranoid Android | Pixel Experience | Project Awaken | Project Elixir 
-meitu,mi cc 9 meitu edition,vela,mi cc 9 meitu edition / vela,eFoundation | Lineage OS | LMODroid 
-hotwav / mobicell / starlight / xiaomi,venus / mi 11 / mobicel,venus,venus / m2011k2c / m2011k2g,AlphaDroid | CrDroid | DroidX-UI | Evolution X | Pixel Experience 
-poco / redmi,redmi note 11e pro / poco x4 pro 5g / redmi note 11 pro 5g,veux,2201116sc / 2201116sr / 2201116sg / 2201116pg,AfterlifeOs | AlphaDroid | Ancient OS | Arrow OS | BananaDroid | Cherish OS | CrDroid | Derpfest | DroidX-UI | Pixel Experience | Pixel Project | Project Elixir 
-motorola,moto x (2nd gen),victara,xt1096 / xt1093 / xt1094 / xt1092 / xt1085 / xt1097 / xt1098 / xt1095,AICP | AOSP Extended | eFoundation | Lineage OS 
-xiaomi,xiaomi 11t pro,vili,2107113sr / 2107113si / 2107113sg,AlphaDroid | BananaDroid | CrDroid | Derpfest | DroidX-UI | OrionOS | Project Elixir 
-xiaomi,redmi 5 plus,vince,redmi 5 plus / redmi note 5,AfterlifeOs | AICP | AOSP Extended | BananaDroid | BeastROMs | Bliss ROMs | Colt OS | CrDroid | Dot OS | Floko ROM | Fluid OS | Komodo OS | Magnus OS | Mallu OS | MSM Xtended | Nitrogen OS | Octavi OS | PixelExtended | Pixel Experience 
-xiaomi,redmi  note  7 pro,violet,redmi note 7 pro,AfterlifeOs | Ancient OS | Arrow OS | Bliss ROMs | CrDroid | Derpfest | Dot OS | DroidX-UI | eFoundation | Freaky OS | GenesisOS | Komodo OS | Legion OS | Lineage OS | LMODroid | Mallu OS | Mokee ROM | MSM Xtended | Nitrogen OS | Octavi OS | PixelPlusUI | Pixel Experience | ResurrectionRemix 
+acer / xiaomi,a101 / iconia tab a100 (vangogh) / a100 / mi 10 lite zoom,vangogh,a101 / a100 / m2002j9e,Pixel Experience 
+poco,poco x3 pro,vayu,m2102j20sg,AICP | Arrow OS | BananaDroid | Bliss ROMs | Bootleggers ROM | Cherish OS | ConquerOS | CrDroid | Derpfest | Dot OS | eFoundation | Eternity OS | Evolution X | Fluid OS | Havoc OS | Komodo OS | Legion OS | Lineage OS | LMODroid | Nethunter OS | Octavi OS | OrionOS | Paranoid Android | Pixel Experience | Project Awaken | Project Elixir | Project Infinity X | Project Sakura 
+meitu,mi cc 9 meitu edition,vela,vela / mi cc 9 meitu edition,eFoundation | Lineage OS | LMODroid 
+mobicell / starlight / hotwav / xiaomi,mi 11 / mobicel / venus,venus,m2011k2c / venus / m2011k2g,AlphaDroid | CrDroid | DroidX-UI | Evolution X | Pixel Experience 
+poco / redmi,redmi k70 / poco f6 pro,vermeer,23113rkc6c / 23113rkc6g,Project PixelStar 
+poco / redmi,redmi note 11e pro / poco x4 pro 5g / redmi note 11 pro 5g,veux,2201116sg / 2201116pg / 2201116sc / 2201116sr,AfterlifeOs | AlphaDroid | Ancient OS | Arrow OS | BananaDroid | Cherish OS | CrDroid | Derpfest | DroidX-UI | Pixel Experience | Pixel Project | ProjectEverest | Project Elixir | Project Infinity X | Project Matrixx | Project Pixelage 
+motorola,moto x (2nd gen),victara,xt1098 / xt1092 / xt1085 / xt1094 / xt1096 / xt1093 / xt1097 / xt1095,AICP | AOSP Extended | eFoundation | Lineage OS 
+xiaomi,xiaomi 11t pro,vili,2107113sg / 2107113si / 2107113sr,AlphaDroid | BananaDroid | CrDroid | Derpfest | DroidX-UI | OrionOS | Project Elixir | Project Infinity X 
+xiaomi,redmi 5 plus,vince,redmi note 5 / redmi 5 plus,AfterlifeOs | AICP | AOSP Extended | BananaDroid | BeastROMs | Bliss ROMs | Colt OS | CrDroid | Dot OS | Floko ROM | Fluid OS | Komodo OS | Magnus OS | Mallu OS | MSM Xtended | Nitrogen OS | Octavi OS | PixelExtended | Pixel Experience 
+xiaomi,redmi  note  7 pro,violet,redmi note 7 pro,AfterlifeOs | Ancient OS | Arrow OS | Bliss ROMs | CrDroid | Cygnus ROM | Derpfest | Dot OS | DroidX-UI | eFoundation | Freaky OS | GenesisOS | Komodo OS | Legion OS | Lineage OS | LMODroid | Mallu OS | Mokee ROM | MSM Xtended | Nitrogen OS | Octavi OS | PixelPlusUI | Pixel Experience | ProjectEverest | Project Infinity X | ResurrectionRemix 
 xiaomi,mi note / mi note lte,virgo,mi note lte,Mokee ROM 
-htc,incredible 2,vivow,adr6350 / htc incredibles s710d,Evervoly 
-wonder / lge / gini / headwolf,wonder / l70 / w5,w5,lg-d320 / lg-d321 / w5 / lg-d320ar / lgas323 / lgms323,Lineage OS 
-lge / wings / uniq-cell,l90 / w7,w7,lg-d400 / lg-d405 / w7 / lg-d415,Lineage OS 
-google,pixel 2,walleye,pixel 2,BananaDroid | CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir 
+htc,incredible 2,vivow,htc incredibles s710d / adr6350,Evervoly 
+headwolf / wonder / lge / gini,wonder / w5 / l70,w5,lg-d321 / w5 / lgms323 / lgas323 / lg-d320 / lg-d320ar,Lineage OS 
+wings / lge / uniq-cell,l90 / w7,w7,lg-d400 / lg-d415 / w7 / lg-d405,Lineage OS 
+google,pixel 2,walleye,pixel 2,BananaDroid | CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Pixel Experience | Project Elixir | Project Kaleidoscope 
 xiaomi,mi 6x,wayne,mi 6x,AICP | AOSP Extended | Carbon ROM | CrDroid | Dot OS | eFoundation | Fluid OS | Lineage OS | Mallu OS | Miku UI | Mokee ROM | PixelPlusUI | Pixel Experience 
-xiaomi,redmi note 5 / redmi note 5 pro,whyred,redmi note 5 / redmi note 5 pro,AICP | AOSP Extended | Arrow OS | BananaDroid | BeastROMs | Bliss ROMs | Carbon ROM | Cherish OS | Colt OS | ConquerOS | CrDroid | Derpfest | Dot OS | DroidX-UI | eFoundation | Fluid OS | Freaky OS | Komodo OS | Legion OS | Lineage OS | Liquid Remix | Magnus OS | Mokee ROM | MSM Xtended | Nitrogen OS | Octavi OS | PixelExtended | PixelPlusUI | Pixel Experience | ResurrectionRemix 
-sk telesys / redmi,itp-e410w / redmi note 8t,willow,itp-e410w / willow / redmi note 8t,Cesium OS 
-samsung / lanix,galaxy s20 / galaxy s20 5g / x1s,x1s,sm-g980f / x1s / sm-g981b,CrDroid 
-mira / greentel / teesso / vernee / ikumobile / vava / go mobile / lge / x-tek,optimus  ex / x2 / optimus ex,x2,is11lg / x2 / iku x2 / lg-su880,AOSP Extended | Atomic Os | Carbon ROM | CrDroid | CrDroid | Derpfest | eFoundation | Lineage OS | Mokee ROM | MSM Xtended | PixelExtended | ResurrectionRemix 
-mira / lava / omix / yestel / guophone / ikumobile / stk(santok) / lge / meanit,x3_1 / optimus 4x hd / x3 / stkx3,x3,x3_1 / x3 / lg-p880g / lg-p880 / iku x3,CrDroid | Legion OS | Magnus OS 
-poco / redmi,poco x4 gt / redmi note 11t pro,xaga,22041216g / 22041216c,AfterlifeOs 
-motorola,moto g200 5g / motorola edge s30,xpeng,xt2175-2 / moto g200 5g / motorola edge 20 pro,eFoundation | Lineage OS | LMODroid 
+xiaomi,redmi note 5 pro / redmi note 5,whyred,redmi note 5 pro / redmi note 5,AICP | AOSP Extended | Arrow OS | BananaDroid | BeastROMs | Bliss ROMs | Carbon ROM | Cherish OS | Colt OS | ConquerOS | CrDroid | Cygnus ROM | Derpfest | Dot OS | DroidX-UI | eFoundation | Fluid OS | Freaky OS | Komodo OS | Legion OS | Lineage OS | Liquid Remix | Magnus OS | Mokee ROM | MSM Xtended | Nitrogen OS | Octavi OS | PixelExtended | PixelPlusUI | Pixel Experience | Project Matrixx | Project Radiant | ResurrectionRemix 
+sk telesys / redmi,itp-e410w / redmi note 8t,willow,willow / itp-e410w / redmi note 8t,Cesium OS 
+samsung / lanix,galaxy s20 / x1s / galaxy s20 5g,x1s,sm-g981b / x1s / sm-g980f,CrDroid 
+teesso / mira / x-tek / greentel / go mobile / vava / lge / ikumobile / vernee,x2 / optimus ex / optimus  ex,x2,x2 / lg-su880 / iku x2 / is11lg,AOSP Extended | Atomic Os | Carbon ROM | CrDroid | CrDroid | Derpfest | eFoundation | Lineage OS | Mokee ROM | MSM Xtended | PixelExtended | ResurrectionRemix 
+mira / lava / yestel / omix / stk(santok) / guophone / meanit / lge / ikumobile,optimus 4x hd / x3 / x3_1 / stkx3,x3,iku x3 / x3 / lg-p880g / x3_1 / lg-p880,CrDroid | Legion OS | Magnus OS 
+poco / redmi,poco x4 gt / redmi note 11t pro,xaga,22041216c / 22041216g,AfterlifeOs 
+motorola,moto g200 5g / motorola edge s30,xpeng,moto g200 5g / xt2175-2 / motorola edge 20 pro,eFoundation | Lineage OS | LMODroid 
 samsung,galaxy s20+ / galaxy s20+ 5g,y2s,sm-g985f / sm-g986b,CrDroid 
 xiaomi,redmi s2 / redmi  s2,ysl,redmi s2,AfterlifeOs | BananaDroid | Cesium OS | CrDroid | Dot OS | Freaky OS | Legion OS | OrionOS | PixelPlusUI 
-asus,zenfone 2 (ze551ml),z00a,asus_z00ad / asus_z00ada,Lineage OS 
-acer / zong 4g / mafe / ibrit / umidigi / lge,z120 / z2 / lg g flex2,z2,lg-h959 / lgas995 / lgls996 / lg-h950 / lg-f510s / z120 / lg-h955 / lgus995 / lg-f510k / lg-f510l / z2,Mokee ROM 
+asus,zenfone 2 (ze551ml),z00a,asus_z00ada / asus_z00ad,Lineage OS 
+acer / umidigi / mafe / zong 4g / ibrit / lge,z2 / lg g flex2 / z120,z2,lgls996 / lg-f510l / lg-f510k / z2 / lg-f510s / lgas995 / z120 / lg-h959 / lg-h955 / lg-h950 / lgus995,Mokee ROM 
 zuk,z2,z2_plus,zuk z2131,AOSP Extended | Carbon ROM | CrDroid | Dot OS | eFoundation | Lineage OS | LMODroid | Mokee ROM 
 zuk,z2 pro,z2_row,zuk z2121,AOSP Extended 
 samsung,galaxy s20 ultra 5g,z3s,sm-g988b,CrDroid 
 daria,zahedan,zahedan,dm-b50104,LMODroid 
-samsung,galaxy s6 edge,zerolte,sm-g925x / sm-g925i / sm-g925f,Nethunter OS 
-kobo / sony ericsson / xiaomi,xiaomi 12 pro / arc / xperia play,zeus,zeus / 2201122c / arc / 2201122g,Ancient OS | CrDroid | PixelOS 
+samsung,galaxy s6 edge,zerolte,sm-g925i / sm-g925f / sm-g925x,Nethunter OS 
+sony ericsson / kobo / xiaomi,xiaomi 12 pro / arc / xperia play,zeus,zeus / 2201122c / arc / 2201122g,Ancient OS | CrDroid | PixelOS 
 xiaomi,xiaomi civi 1s,zijin,2109119bc,Miku UI 
-lenovo,z6 pro / z6pro,zippo,lenovo l78051,Bootleggers ROM | CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
-ag mobile / mobicell,zoom,zoom,zoom,Mokee ROM 
+lenovo,z6pro / z6 pro,zippo,lenovo l78051,Bootleggers ROM | CrDroid | eFoundation | Lineage OS | LMODroid | Pixel Experience 
+mobicell / ag mobile,zoom,zoom,zoom,Mokee ROM 

@@ -52,7 +52,6 @@ rowData: Device[] = [];
     .then(data => {
       let lines = data.split('\n');
       for (let i = 1; i < lines.length; i++) {
-        console.log(lines[i]);
         let cols = lines[i].split(',');
         this.rowDataRaw.push({ [RETAIL_BRANDING]: cols[0], [MARKETING_NAME]: cols[1], [CODE_NAME]: cols[2], [MODEL]: cols[3], [ROMS]: cols[4] });
       }
@@ -68,7 +67,6 @@ rowData: Device[] = [];
     .then(data => {
       let lines = data.split('\n');
       for (let i = 1; i < lines.length; i++) {
-        console.log(lines[i]);
         let cols = lines[i].split(',');
         this.romData2.push({ [ROM]: cols[0], [NUMBER_OF_DEVICES]: parseInt(cols[1]) });
       }
