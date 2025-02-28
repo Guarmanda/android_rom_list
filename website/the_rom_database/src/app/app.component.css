@@ -1,11 +1,11 @@
 .test{
     /* window height */
-    height: 40vh;
+    height: 50vh;
     width:100%;
 }
 
 .test2{
-    height: 40vh;
+    height: 50vh;
     width:100%;
     display: block;
 }
