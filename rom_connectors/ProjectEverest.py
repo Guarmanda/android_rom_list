@@ -5,5 +5,3 @@ def getSupportedDevices():
     html = get_html('https://raw.githubusercontent.com/ProjectEverest/everest-maintainers/14/everest.devices')
     supported_devices = html.split('\n')
     return supported_devices
-
-print(getSupportedDevices())

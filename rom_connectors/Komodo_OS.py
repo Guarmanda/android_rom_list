@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 # official, a non-official list is also avalaible
 def getSupportedDevices():
-    driver = get_driver('https://komodo-os.my.id/download', wait_load_element_id='flush-collapse-8')
+    driver = get_driver('https://komodo-os.my.id/download', wait_load_element_class='mb-4')
     supported_devices = []
     # find all h3 with class "mb-4"
     elems = driver.find_elements(By.TAG_NAME, 'h3')
