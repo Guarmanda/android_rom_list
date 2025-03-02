@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from rom_connectors.utils import get_driver
+
 # everything is on pling, links can be found in their telegram channel
 def getSupportedDevices():
     html = get_driver('https://sigmadroid.xyz/Devices', wait_load_element_class='_subtitle_kydio_79')

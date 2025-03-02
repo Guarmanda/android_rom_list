@@ -114,10 +114,10 @@ https://sourceforge.net/projects/rmx3371zz/files/
 - **StatiX OS** | [Github](https://github.com/StatiXOS)
 - **Superior OS** | [Github](https://github.com/SuperiorOS) - [Web](https://superioros.github.io/)
 - **Syberia OS** | [Github](https://github.com/syberia-project) - [Web](https://syberiaos.com/)
-- **TenX-OS** | [Github](https://github.com/TenX-OS)
+- **TenX-OS** | [Github](https://github.com/TenX-OS) Only one phone supported, website is down
 - **Tequila OS** | [Github](https://github.com/tequilaOS) - [Web](https://tequilaos.org/)
 - **The Styx Project** | [Github](https://github.com/StyxProject) - [DL](https://sourceforge.net/projects/styx-os/files/Athena/release/)
-- **The XPerience Project** | [Github](https://github.com/TheXPerienceProject)
+- **The XPerience Project** | [Github](https://github.com/TheXPerienceProject) - [Web](https://thexperienceproject.klozz.dev/) - [DL](https://sourceforge.net/projects/xperience-aosp/files/)
 - **Toxyc OS** | [Github](https://github.com/ToxycOS) - [Web](https://team-toxic.github.io/) [DL](https://sourceforge.net/projects/toxycos/files/)
 - **Viper OS** | [Github](https://github.com/ViperOS) - [Web](https://viperos.gitlab.io/)
 - **VoidUI** | [Github](https://github.com/VoidUI) - [DL](https://sourceforge.net/projects/voidui/files/)

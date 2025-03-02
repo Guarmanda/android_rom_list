@@ -16,6 +16,12 @@ if not os.path.exists("supported_devices.csv"):
 # load the csv
 df = pd.read_csv("supported_devices.csv", encoding="utf-16")
 
+# these brands are shut down or inactive in mobile phones for years but uses some codenames already used by famous other brands, creating false-positives
+excluded_brands = ["Aamra WE", "Concord", "SGIN", "Caxilysh", "iYOU", "BESTTAB", "Hiking", "Wintouch", "Tibuta", "Blu"]
+
+# for each line remove the line if first column ("Retail Branding") is in the excluded_brands list
+df = df[~df["Retail Branding"].isin(excluded_brands)]
+
 # in supported_devices.txt, which is another file, we have the supported devices for each rom like this:
 # Advanced_XPerienc_eOs.py: ['sunfish', ...
 # We can easily load it too in an object
